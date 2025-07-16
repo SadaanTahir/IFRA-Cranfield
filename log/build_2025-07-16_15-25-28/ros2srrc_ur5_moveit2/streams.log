@@ -1,0 +1,51 @@
+[0.096s] Invoking command in '/home/ros2/dev_ws/build/ros2srrc_ur5_moveit2': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake /home/ros2/dev_ws/src/ros2_SimRealRobotControl/packages/ur5/ros2srrc_ur5_moveit2 -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/ros2/dev_ws/install/ros2srrc_ur5_moveit2
+[1.083s] -- The C compiler identification is GNU 11.4.0
+[1.083s] -- The CXX compiler identification is GNU 11.4.0
+[1.083s] -- Detecting C compiler ABI info
+[1.083s] -- Detecting C compiler ABI info - done
+[1.083s] -- Check for working C compiler: /usr/bin/cc - skipped
+[1.083s] -- Detecting C compile features
+[1.083s] -- Detecting C compile features - done
+[1.083s] -- Detecting CXX compiler ABI info
+[1.104s] -- Detecting CXX compiler ABI info - done
+[1.137s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[1.137s] -- Detecting CXX compile features
+[1.141s] -- Detecting CXX compile features - done
+[1.164s] -- Found ament_cmake: 1.3.11 (/opt/ros/humble/share/ament_cmake/cmake)
+[1.925s] -- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+[2.146s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[2.342s] -- Found ament_lint_auto: 0.12.12 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[2.720s] -- Added test 'copyright' to check source files copyright and LICENSE
+[2.725s] -- Added test 'lint_cmake' to check CMake code style
+[2.730s] -- Added test 'xmllint' to check XML markup files
+[2.743s] -- Configuring done
+[2.749s] -- Generating done
+[2.758s] -- Build files have been written to: /home/ros2/dev_ws/build/ros2srrc_ur5_moveit2
+[2.782s] Invoked command in '/home/ros2/dev_ws/build/ros2srrc_ur5_moveit2' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake /home/ros2/dev_ws/src/ros2_SimRealRobotControl/packages/ur5/ros2srrc_ur5_moveit2 -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/ros2/dev_ws/install/ros2srrc_ur5_moveit2
+[2.782s] Invoking command in '/home/ros2/dev_ws/build/ros2srrc_ur5_moveit2': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/ros2/dev_ws/build/ros2srrc_ur5_moveit2 -- -j16 -l16
+[4.717s] Invoked command in '/home/ros2/dev_ws/build/ros2srrc_ur5_moveit2' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/ros2/dev_ws/build/ros2srrc_ur5_moveit2 -- -j16 -l16
+[4.722s] Invoking command in '/home/ros2/dev_ws/build/ros2srrc_ur5_moveit2': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/ros2/dev_ws/build/ros2srrc_ur5_moveit2
+[5.186s] -- Install configuration: ""
+[5.186s] -- Execute custom install script
+[5.186s] -- Symlinking: /home/ros2/dev_ws/install/ros2srrc_ur5_moveit2/share/ros2srrc_ur5_moveit2/config/ur5.srdf
+[5.186s] -- Symlinking: /home/ros2/dev_ws/install/ros2srrc_ur5_moveit2/share/ros2srrc_ur5_moveit2/config/ur5_moveit2.rviz
+[5.186s] -- Symlinking: /home/ros2/dev_ws/install/ros2srrc_ur5_moveit2/share/ros2srrc_ur5_moveit2/config/ur5robotiq_2f85.srdf
+[5.186s] -- Symlinking: /home/ros2/dev_ws/install/ros2srrc_ur5_moveit2/share/ros2srrc_ur5_moveit2/config/ur5robotiq_2f85_moveit2.rviz
+[5.186s] -- Symlinking: /home/ros2/dev_ws/install/ros2srrc_ur5_moveit2/share/ros2srrc_ur5_moveit2/config/ur5robotiq_hande.srdf
+[5.187s] -- Symlinking: /home/ros2/dev_ws/install/ros2srrc_ur5_moveit2/share/ros2srrc_ur5_moveit2/config/ur5robotiq_hande_moveit2.rviz
+[5.187s] -- Symlinking: /home/ros2/dev_ws/install/ros2srrc_ur5_moveit2/share/ament_index/resource_index/package_run_dependencies/ros2srrc_ur5_moveit2
+[5.187s] -- Symlinking: /home/ros2/dev_ws/install/ros2srrc_ur5_moveit2/share/ament_index/resource_index/parent_prefix_path/ros2srrc_ur5_moveit2
+[5.187s] -- Symlinking: /home/ros2/dev_ws/install/ros2srrc_ur5_moveit2/share/ros2srrc_ur5_moveit2/environment/ament_prefix_path.sh
+[5.187s] -- Symlinking: /home/ros2/dev_ws/install/ros2srrc_ur5_moveit2/share/ros2srrc_ur5_moveit2/environment/ament_prefix_path.dsv
+[5.187s] -- Symlinking: /home/ros2/dev_ws/install/ros2srrc_ur5_moveit2/share/ros2srrc_ur5_moveit2/environment/path.sh
+[5.187s] -- Symlinking: /home/ros2/dev_ws/install/ros2srrc_ur5_moveit2/share/ros2srrc_ur5_moveit2/environment/path.dsv
+[5.187s] -- Symlinking: /home/ros2/dev_ws/install/ros2srrc_ur5_moveit2/share/ros2srrc_ur5_moveit2/local_setup.bash
+[5.187s] -- Symlinking: /home/ros2/dev_ws/install/ros2srrc_ur5_moveit2/share/ros2srrc_ur5_moveit2/local_setup.sh
+[5.187s] -- Symlinking: /home/ros2/dev_ws/install/ros2srrc_ur5_moveit2/share/ros2srrc_ur5_moveit2/local_setup.zsh
+[5.187s] -- Symlinking: /home/ros2/dev_ws/install/ros2srrc_ur5_moveit2/share/ros2srrc_ur5_moveit2/local_setup.dsv
+[5.187s] -- Symlinking: /home/ros2/dev_ws/install/ros2srrc_ur5_moveit2/share/ros2srrc_ur5_moveit2/package.dsv
+[5.187s] -- Symlinking: /home/ros2/dev_ws/install/ros2srrc_ur5_moveit2/share/ament_index/resource_index/packages/ros2srrc_ur5_moveit2
+[5.187s] -- Symlinking: /home/ros2/dev_ws/install/ros2srrc_ur5_moveit2/share/ros2srrc_ur5_moveit2/cmake/ros2srrc_ur5_moveit2Config.cmake
+[5.197s] -- Symlinking: /home/ros2/dev_ws/install/ros2srrc_ur5_moveit2/share/ros2srrc_ur5_moveit2/cmake/ros2srrc_ur5_moveit2Config-version.cmake
+[5.219s] -- Symlinking: /home/ros2/dev_ws/install/ros2srrc_ur5_moveit2/share/ros2srrc_ur5_moveit2/package.xml
+[5.237s] Invoked command in '/home/ros2/dev_ws/build/ros2srrc_ur5_moveit2' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/ros2/dev_ws/build/ros2srrc_ur5_moveit2

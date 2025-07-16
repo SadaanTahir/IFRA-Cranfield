@@ -1,0 +1,20 @@
+Specifications:
+  Robot: "irb120"
+  EndEffector: None
+  EELink: None
+  Objects: None
+
+Sequence:
+  - Step: 0
+    Name: "Move to Home Position"
+    Type: "MoveJ"
+    Speed: 0.5
+    Delay: 1.0
+    Input:
+      joint1: 0.0
+      joint2: -1.5708
+      joint3: 1.5708
+      joint4: 0.0
+      joint5: 0.0
+      joint6: 0.0
+

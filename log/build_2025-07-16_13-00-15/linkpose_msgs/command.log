@@ -1,6 +1,0 @@
-Invoking command in '/home/ros2/dev_ws/build/linkpose_msgs': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/ros2/dev_ws/src/IFRA_LinkPose/linkpose_msgs -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/ros2/dev_ws/install/linkpose_msgs
-Invoked command in '/home/ros2/dev_ws/build/linkpose_msgs' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/ros2/dev_ws/src/IFRA_LinkPose/linkpose_msgs -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/ros2/dev_ws/install/linkpose_msgs
-Invoking command in '/home/ros2/dev_ws/build/linkpose_msgs': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/ros2/dev_ws/build/linkpose_msgs -- -j16 -l16
-Invoked command in '/home/ros2/dev_ws/build/linkpose_msgs' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/ros2/dev_ws/build/linkpose_msgs -- -j16 -l16
-Invoking command in '/home/ros2/dev_ws/build/linkpose_msgs': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/ros2/dev_ws/build/linkpose_msgs
-Invoked command in '/home/ros2/dev_ws/build/linkpose_msgs' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/ros2/dev_ws/build/linkpose_msgs

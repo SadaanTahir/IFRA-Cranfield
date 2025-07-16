@@ -1,0 +1,48 @@
+[0.094s] Invoking command in '/home/ros2/dev_ws/build/ros2srrc_irb1600_gazebo': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake /home/ros2/dev_ws/src/ros2_SimRealRobotControl/packages/irb1600/ros2srrc_irb1600_gazebo -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/ros2/dev_ws/install/ros2srrc_irb1600_gazebo
+[2.434s] -- The C compiler identification is GNU 11.4.0
+[2.435s] -- The CXX compiler identification is GNU 11.4.0
+[2.436s] -- Detecting C compiler ABI info
+[2.436s] -- Detecting C compiler ABI info - done
+[2.436s] -- Check for working C compiler: /usr/bin/cc - skipped
+[2.436s] -- Detecting C compile features
+[2.436s] -- Detecting C compile features - done
+[2.436s] -- Detecting CXX compiler ABI info
+[2.436s] -- Detecting CXX compiler ABI info - done
+[2.436s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[2.436s] -- Detecting CXX compile features
+[2.437s] -- Detecting CXX compile features - done
+[2.437s] -- Found ament_cmake: 1.3.11 (/opt/ros/humble/share/ament_cmake/cmake)
+[2.437s] -- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+[2.437s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[2.437s] -- Found ament_lint_auto: 0.12.12 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[2.605s] -- Added test 'copyright' to check source files copyright and LICENSE
+[2.606s] -- Added test 'lint_cmake' to check CMake code style
+[2.620s] -- Added test 'xmllint' to check XML markup files
+[2.626s] -- Configuring done
+[2.635s] -- Generating done
+[2.643s] -- Build files have been written to: /home/ros2/dev_ws/build/ros2srrc_irb1600_gazebo
+[2.662s] Invoked command in '/home/ros2/dev_ws/build/ros2srrc_irb1600_gazebo' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake /home/ros2/dev_ws/src/ros2_SimRealRobotControl/packages/irb1600/ros2srrc_irb1600_gazebo -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/ros2/dev_ws/install/ros2srrc_irb1600_gazebo
+[2.665s] Invoking command in '/home/ros2/dev_ws/build/ros2srrc_irb1600_gazebo': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/ros2/dev_ws/build/ros2srrc_irb1600_gazebo -- -j16 -l16
+[3.502s] Invoked command in '/home/ros2/dev_ws/build/ros2srrc_irb1600_gazebo' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/ros2/dev_ws/build/ros2srrc_irb1600_gazebo -- -j16 -l16
+[3.503s] Invoking command in '/home/ros2/dev_ws/build/ros2srrc_irb1600_gazebo': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/ros2/dev_ws/build/ros2srrc_irb1600_gazebo
+[5.379s] -- Install configuration: ""
+[5.379s] -- Execute custom install script
+[5.379s] -- Symlinking: /home/ros2/dev_ws/install/ros2srrc_irb1600_gazebo/share/ros2srrc_irb1600_gazebo/config/configurations.yaml
+[5.380s] -- Symlinking: /home/ros2/dev_ws/install/ros2srrc_irb1600_gazebo/share/ros2srrc_irb1600_gazebo/urdf/irb1600.urdf.xacro
+[5.380s] -- Symlinking: /home/ros2/dev_ws/install/ros2srrc_irb1600_gazebo/share/ros2srrc_irb1600_gazebo/worlds/ros2srrc_irb1600.world
+[5.380s] -- Symlinking: /home/ros2/dev_ws/install/ros2srrc_irb1600_gazebo/share/ament_index/resource_index/package_run_dependencies/ros2srrc_irb1600_gazebo
+[5.380s] -- Symlinking: /home/ros2/dev_ws/install/ros2srrc_irb1600_gazebo/share/ament_index/resource_index/parent_prefix_path/ros2srrc_irb1600_gazebo
+[5.380s] -- Symlinking: /home/ros2/dev_ws/install/ros2srrc_irb1600_gazebo/share/ros2srrc_irb1600_gazebo/environment/ament_prefix_path.sh
+[5.380s] -- Symlinking: /home/ros2/dev_ws/install/ros2srrc_irb1600_gazebo/share/ros2srrc_irb1600_gazebo/environment/ament_prefix_path.dsv
+[5.380s] -- Symlinking: /home/ros2/dev_ws/install/ros2srrc_irb1600_gazebo/share/ros2srrc_irb1600_gazebo/environment/path.sh
+[5.380s] -- Symlinking: /home/ros2/dev_ws/install/ros2srrc_irb1600_gazebo/share/ros2srrc_irb1600_gazebo/environment/path.dsv
+[5.380s] -- Symlinking: /home/ros2/dev_ws/install/ros2srrc_irb1600_gazebo/share/ros2srrc_irb1600_gazebo/local_setup.bash
+[5.380s] -- Symlinking: /home/ros2/dev_ws/install/ros2srrc_irb1600_gazebo/share/ros2srrc_irb1600_gazebo/local_setup.sh
+[5.380s] -- Symlinking: /home/ros2/dev_ws/install/ros2srrc_irb1600_gazebo/share/ros2srrc_irb1600_gazebo/local_setup.zsh
+[5.380s] -- Symlinking: /home/ros2/dev_ws/install/ros2srrc_irb1600_gazebo/share/ros2srrc_irb1600_gazebo/local_setup.dsv
+[5.380s] -- Symlinking: /home/ros2/dev_ws/install/ros2srrc_irb1600_gazebo/share/ros2srrc_irb1600_gazebo/package.dsv
+[5.381s] -- Symlinking: /home/ros2/dev_ws/install/ros2srrc_irb1600_gazebo/share/ament_index/resource_index/packages/ros2srrc_irb1600_gazebo
+[5.381s] -- Symlinking: /home/ros2/dev_ws/install/ros2srrc_irb1600_gazebo/share/ros2srrc_irb1600_gazebo/cmake/ros2srrc_irb1600_gazeboConfig.cmake
+[5.381s] -- Symlinking: /home/ros2/dev_ws/install/ros2srrc_irb1600_gazebo/share/ros2srrc_irb1600_gazebo/cmake/ros2srrc_irb1600_gazeboConfig-version.cmake
+[5.381s] -- Symlinking: /home/ros2/dev_ws/install/ros2srrc_irb1600_gazebo/share/ros2srrc_irb1600_gazebo/package.xml
+[5.409s] Invoked command in '/home/ros2/dev_ws/build/ros2srrc_irb1600_gazebo' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/ros2/dev_ws/build/ros2srrc_irb1600_gazebo

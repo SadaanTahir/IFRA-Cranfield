@@ -1,6 +1,0 @@
-Invoking command in '/home/ros2/dev_ws/build/abb_librws': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/ros2/dev_ws/src/ABBDriver/abb_librws -DCMAKE_INSTALL_PREFIX=/home/ros2/dev_ws/install/abb_librws
-Invoked command in '/home/ros2/dev_ws/build/abb_librws' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/ros2/dev_ws/src/ABBDriver/abb_librws -DCMAKE_INSTALL_PREFIX=/home/ros2/dev_ws/install/abb_librws
-Invoking command in '/home/ros2/dev_ws/build/abb_librws': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/ros2/dev_ws/build/abb_librws -- -j16 -l16
-Invoked command in '/home/ros2/dev_ws/build/abb_librws' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/ros2/dev_ws/build/abb_librws -- -j16 -l16
-Invoking command in '/home/ros2/dev_ws/build/abb_librws': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/ros2/dev_ws/build/abb_librws
-Invoked command in '/home/ros2/dev_ws/build/abb_librws' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/ros2/dev_ws/build/abb_librws

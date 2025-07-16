@@ -1,0 +1,52 @@
+[0.053s] Invoking command in '/home/ros2/dev_ws/build/abb_librws': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake /home/ros2/dev_ws/src/ABBDriver/abb_librws -DCMAKE_INSTALL_PREFIX=/home/ros2/dev_ws/install/abb_librws
+[0.157s] -- The CXX compiler identification is GNU 11.4.0
+[0.174s] -- Detecting CXX compiler ABI info
+[0.302s] -- Detecting CXX compiler ABI info - done
+[0.311s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.312s] -- Detecting CXX compile features
+[0.312s] -- Detecting CXX compile features - done
+[0.314s] -- Searching for Poco library...
+[0.367s] --   Found Poco!
+[0.367s] -- components found: Foundation, Net, Util, XML.
+[0.368s] -- Performing Test COMPILER_HAS_HIDDEN_VISIBILITY
+[0.497s] -- Performing Test COMPILER_HAS_HIDDEN_VISIBILITY - Success
+[0.498s] -- Performing Test COMPILER_HAS_HIDDEN_INLINE_VISIBILITY
+[0.634s] -- Performing Test COMPILER_HAS_HIDDEN_INLINE_VISIBILITY - Success
+[0.634s] -- Performing Test COMPILER_HAS_DEPRECATED_ATTR
+[0.817s] -- Performing Test COMPILER_HAS_DEPRECATED_ATTR - Success
+[0.818s] -- Configuring done
+[0.823s] -- Generating done
+[0.826s] -- Build files have been written to: /home/ros2/dev_ws/build/abb_librws
+[0.845s] Invoked command in '/home/ros2/dev_ws/build/abb_librws' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake /home/ros2/dev_ws/src/ABBDriver/abb_librws -DCMAKE_INSTALL_PREFIX=/home/ros2/dev_ws/install/abb_librws
+[0.845s] Invoking command in '/home/ros2/dev_ws/build/abb_librws': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/ros2/dev_ws/build/abb_librws -- -j16 -l16
+[1.255s] [ 14%] [32mBuilding CXX object CMakeFiles/abb_librws.dir/src/rws_client.cpp.o[0m
+[1.255s] [ 28%] [32mBuilding CXX object CMakeFiles/abb_librws.dir/src/rws_common.cpp.o[0m
+[1.255s] [ 42%] [32mBuilding CXX object CMakeFiles/abb_librws.dir/src/rws_interface.cpp.o[0m
+[1.255s] [ 57%] [32mBuilding CXX object CMakeFiles/abb_librws.dir/src/rws_rapid.cpp.o[0m
+[1.255s] [ 71%] [32mBuilding CXX object CMakeFiles/abb_librws.dir/src/rws_state_machine_interface.cpp.o[0m
+[1.255s] [ 85%] [32mBuilding CXX object CMakeFiles/abb_librws.dir/src/rws_poco_client.cpp.o[0m
+[3.864s] [100%] [32m[1mLinking CXX shared library libabb_librws.so[0m
+[4.576s] [100%] Built target abb_librws
+[4.629s] Invoked command in '/home/ros2/dev_ws/build/abb_librws' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/ros2/dev_ws/build/abb_librws -- -j16 -l16
+[4.629s] Invoking command in '/home/ros2/dev_ws/build/abb_librws': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/ros2/dev_ws/build/abb_librws
+[7.837s] -- Install configuration: ""
+[7.859s] -- Installing: /home/ros2/dev_ws/install/abb_librws/include
+[7.859s] -- Installing: /home/ros2/dev_ws/install/abb_librws/include/abb_librws
+[7.859s] -- Installing: /home/ros2/dev_ws/install/abb_librws/include/abb_librws/rws_poco_client.h
+[7.859s] -- Installing: /home/ros2/dev_ws/install/abb_librws/include/abb_librws/rws_common.h
+[7.860s] -- Installing: /home/ros2/dev_ws/install/abb_librws/include/abb_librws/rws_state_machine_interface.h
+[7.860s] -- Installing: /home/ros2/dev_ws/install/abb_librws/include/abb_librws/rws_rapid.h
+[7.860s] -- Installing: /home/ros2/dev_ws/install/abb_librws/include/abb_librws/rws_cfg.h
+[7.860s] -- Installing: /home/ros2/dev_ws/install/abb_librws/include/abb_librws/rws_client.h
+[7.860s] -- Installing: /home/ros2/dev_ws/install/abb_librws/include/abb_librws/rws_interface.h
+[7.860s] -- Installing: /home/ros2/dev_ws/install/abb_librws/include/abb_librws/abb_librws_export.h
+[7.860s] -- Installing: /home/ros2/dev_ws/install/abb_librws/share/abb_librws/cmake
+[7.860s] -- Installing: /home/ros2/dev_ws/install/abb_librws/share/abb_librws/cmake/FindPoco.cmake
+[7.860s] -- Installing: /home/ros2/dev_ws/install/abb_librws/share/abb_librws/cmake/README.md
+[7.860s] -- Installing: /home/ros2/dev_ws/install/abb_librws/lib/libabb_librws.so
+[7.860s] -- Installing: /home/ros2/dev_ws/install/abb_librws/share/abb_librws/abb_librwsConfig.cmake
+[7.861s] -- Installing: /home/ros2/dev_ws/install/abb_librws/share/abb_librws/abb_librwsConfigVersion.cmake
+[7.861s] -- Installing: /home/ros2/dev_ws/install/abb_librws/share/abb_librws/package.xml
+[7.861s] -- Installing: /home/ros2/dev_ws/install/abb_librws/share/abb_librws/abb_librwsTargets.cmake
+[7.861s] -- Installing: /home/ros2/dev_ws/install/abb_librws/share/abb_librws/abb_librwsTargets-noconfig.cmake
+[7.881s] Invoked command in '/home/ros2/dev_ws/build/abb_librws' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/ros2/dev_ws/build/abb_librws

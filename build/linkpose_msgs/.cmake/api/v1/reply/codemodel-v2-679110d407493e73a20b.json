@@ -1,0 +1,233 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1
+					],
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-6a4f9d85094a55f2214e.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.12"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17
+					]
+				},
+				{
+					"build" : "linkpose_msgs__py",
+					"jsonFile" : "directory-linkpose_msgs__py-279a997c2097c71b983d.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.12"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "/home/ros2/dev_ws/build/linkpose_msgs/linkpose_msgs__py",
+					"targetIndexes" : 
+					[
+						4
+					]
+				}
+			],
+			"name" : "",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0,
+						1
+					],
+					"name" : "linkpose_msgs",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "ament_cmake_python_build_linkpose_msgs_egg::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ament_cmake_python_build_linkpose_msgs_egg-32f221933a487939d77b.json",
+					"name" : "ament_cmake_python_build_linkpose_msgs_egg",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ament_cmake_python_symlink_linkpose_msgs::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ament_cmake_python_symlink_linkpose_msgs-9828d2a8da054e0ee04d.json",
+					"name" : "ament_cmake_python_symlink_linkpose_msgs",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "linkpose_msgs::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-linkpose_msgs-3d71d8994ac6cbf31c2a.json",
+					"name" : "linkpose_msgs",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "linkpose_msgs__cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-linkpose_msgs__cpp-b8a03dfcf8edcdc269ce.json",
+					"name" : "linkpose_msgs__cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "linkpose_msgs__py::@7dd8b489efb6c06d976d",
+					"jsonFile" : "target-linkpose_msgs__py-84bcda7b315ac86c6b01.json",
+					"name" : "linkpose_msgs__py",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "linkpose_msgs__rosidl_generator_c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-linkpose_msgs__rosidl_generator_c-4d7322374484e7096234.json",
+					"name" : "linkpose_msgs__rosidl_generator_c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "linkpose_msgs__rosidl_generator_py::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-linkpose_msgs__rosidl_generator_py-f95dca84fb652dd65f2c.json",
+					"name" : "linkpose_msgs__rosidl_generator_py",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "linkpose_msgs__rosidl_typesupport_c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-linkpose_msgs__rosidl_typesupport_c-798297dca16310753a13.json",
+					"name" : "linkpose_msgs__rosidl_typesupport_c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "linkpose_msgs__rosidl_typesupport_c__pyext::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-linkpose_msgs__rosidl_typesupport_c__pyext-c14e41ce15c7eaaae5a2.json",
+					"name" : "linkpose_msgs__rosidl_typesupport_c__pyext",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "linkpose_msgs__rosidl_typesupport_cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-linkpose_msgs__rosidl_typesupport_cpp-c1533e9991f5a4e1cf68.json",
+					"name" : "linkpose_msgs__rosidl_typesupport_cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "linkpose_msgs__rosidl_typesupport_fastrtps_c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-linkpose_msgs__rosidl_typesupport_fastrtps_c-5c593fdb38c894df06ef.json",
+					"name" : "linkpose_msgs__rosidl_typesupport_fastrtps_c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "linkpose_msgs__rosidl_typesupport_fastrtps_c__pyext::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-linkpose_msgs__rosidl_typesupport_fastrtps_c__pyext-1c5ae1c1e25563a4fd2c.json",
+					"name" : "linkpose_msgs__rosidl_typesupport_fastrtps_c__pyext",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "linkpose_msgs__rosidl_typesupport_fastrtps_cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-linkpose_msgs__rosidl_typesupport_fastrtps_cpp-b44c7a5f4a611ee0b55f.json",
+					"name" : "linkpose_msgs__rosidl_typesupport_fastrtps_cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "linkpose_msgs__rosidl_typesupport_introspection_c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-linkpose_msgs__rosidl_typesupport_introspection_c-6f0c1534f024e3b54b82.json",
+					"name" : "linkpose_msgs__rosidl_typesupport_introspection_c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "linkpose_msgs__rosidl_typesupport_introspection_c__pyext::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-linkpose_msgs__rosidl_typesupport_introspection_c__pyext-ba1d9a79da77b8952ab1.json",
+					"name" : "linkpose_msgs__rosidl_typesupport_introspection_c__pyext",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "linkpose_msgs__rosidl_typesupport_introspection_cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-linkpose_msgs__rosidl_typesupport_introspection_cpp-f99fbfad5b05a136e9c7.json",
+					"name" : "linkpose_msgs__rosidl_typesupport_introspection_cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "linkpose_msgs_uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-linkpose_msgs_uninstall-911e3a512cf4bb11bae5.json",
+					"name" : "linkpose_msgs_uninstall",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-uninstall-c3c27cb90afc9954bde6.json",
+					"name" : "uninstall",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/ros2/dev_ws/build/linkpose_msgs",
+		"source" : "/home/ros2/dev_ws/src/IFRA_LinkPose/linkpose_msgs"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}

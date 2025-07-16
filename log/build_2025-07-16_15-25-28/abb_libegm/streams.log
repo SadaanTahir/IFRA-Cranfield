@@ -1,0 +1,70 @@
+[0.054s] Invoking command in '/home/ros2/dev_ws/build/abb_libegm': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake /home/ros2/dev_ws/src/ABBDriver/abb_libegm -DCMAKE_INSTALL_PREFIX=/home/ros2/dev_ws/install/abb_libegm
+[0.165s] -- The CXX compiler identification is GNU 11.4.0
+[0.174s] -- Detecting CXX compiler ABI info
+[0.304s] -- Detecting CXX compiler ABI info - done
+[0.314s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.315s] -- Detecting CXX compile features
+[0.315s] -- Detecting CXX compile features - done
+[0.637s] -- Found Boost: /usr/lib/x86_64-linux-gnu/cmake/Boost-1.74.0/BoostConfig.cmake (found version "1.74.0") found components: regex system thread 
+[0.681s] -- Found Protobuf: /usr/lib/x86_64-linux-gnu/libprotobuf.so (found version "3.12.4") 
+[0.681s] -- Generating protobuf C++ for: proto/egm.proto;proto/egm_wrapper.proto;proto/egm_wrapper_trajectory.proto
+[0.682s] -- Found Threads: TRUE  
+[0.683s] -- Performing Test COMPILER_HAS_HIDDEN_VISIBILITY
+[0.811s] -- Performing Test COMPILER_HAS_HIDDEN_VISIBILITY - Success
+[0.812s] -- Performing Test COMPILER_HAS_HIDDEN_INLINE_VISIBILITY
+[0.984s] -- Performing Test COMPILER_HAS_HIDDEN_INLINE_VISIBILITY - Success
+[0.984s] -- Performing Test COMPILER_HAS_DEPRECATED_ATTR
+[1.202s] -- Performing Test COMPILER_HAS_DEPRECATED_ATTR - Success
+[1.202s] -- Configuring done
+[1.214s] -- Generating done
+[1.216s] -- Build files have been written to: /home/ros2/dev_ws/build/abb_libegm
+[1.258s] Invoked command in '/home/ros2/dev_ws/build/abb_libegm' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake /home/ros2/dev_ws/src/ABBDriver/abb_libegm -DCMAKE_INSTALL_PREFIX=/home/ros2/dev_ws/install/abb_libegm
+[1.258s] Invoking command in '/home/ros2/dev_ws/build/abb_libegm': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/ros2/dev_ws/build/abb_libegm -- -j16 -l16
+[3.074s] [  6%] [34m[1mRunning cpp protocol buffer compiler on proto/egm.proto[0m
+[3.074s] [ 13%] [34m[1mRunning cpp protocol buffer compiler on proto/egm_wrapper_trajectory.proto[0m
+[3.074s] [ 20%] [34m[1mRunning cpp protocol buffer compiler on proto/egm_wrapper.proto[0m
+[3.075s] [ 26%] [32mBuilding CXX object CMakeFiles/abb_libegm.dir/src/egm_base_interface.cpp.o[0m
+[3.075s] [ 40%] [32mBuilding CXX object CMakeFiles/abb_libegm.dir/src/egm_common_auxiliary.cpp.o[0m
+[3.075s] [ 40%] [32mBuilding CXX object CMakeFiles/abb_libegm.dir/src/egm_controller_interface.cpp.o[0m
+[3.075s] [ 46%] [32mBuilding CXX object CMakeFiles/abb_libegm.dir/src/egm_interpolator.cpp.o[0m
+[3.075s] [ 53%] [32mBuilding CXX object CMakeFiles/abb_libegm.dir/egm.pb.cc.o[0m
+[3.077s] [ 60%] [32mBuilding CXX object CMakeFiles/abb_libegm.dir/src/egm_trajectory_interface.cpp.o[0m
+[3.077s] [ 66%] [32mBuilding CXX object CMakeFiles/abb_libegm.dir/src/egm_udp_server.cpp.o[0m
+[3.077s] [ 73%] [32mBuilding CXX object CMakeFiles/abb_libegm.dir/src/egm_common.cpp.o[0m
+[3.077s] [ 80%] [32mBuilding CXX object CMakeFiles/abb_libegm.dir/src/egm_logger.cpp.o[0m
+[3.077s] [ 86%] [32mBuilding CXX object CMakeFiles/abb_libegm.dir/egm_wrapper_trajectory.pb.cc.o[0m
+[3.077s] [ 93%] [32mBuilding CXX object CMakeFiles/abb_libegm.dir/egm_wrapper.pb.cc.o[0m
+[3.077s] In file included from [01m[K/usr/include/boost/bind.hpp:30[m[K,
+[3.077s]                  from [01m[K/home/ros2/dev_ws/src/ABBDriver/abb_libegm/src/egm_udp_server.cpp:37[m[K:
+[3.078s] [01m[K/usr/include/boost/bind.hpp:36:1:[m[K [01;36m[Knote: [m[K‘[01m[K#pragma message: The practice of declaring the Bind placeholders (_1, _2, ...) in the global namespace is deprecated. Please use <boost/bind/bind.hpp> + using namespace boost::placeholders, or define BOOST_BIND_GLOBAL_PLACEHOLDERS to retain the current behavior.[m[K’
+[3.078s]    36 | [01;36m[KBOOST_PRAGMA_MESSAGE[m[K(
+[3.078s]       | [01;36m[K^~~~~~~~~~~~~~~~~~~~[m[K
+[18.807s] [100%] [32m[1mLinking CXX shared library libabb_libegm.so[0m
+[19.808s] [100%] Built target abb_libegm
+[19.863s] Invoked command in '/home/ros2/dev_ws/build/abb_libegm' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/ros2/dev_ws/build/abb_libegm -- -j16 -l16
+[19.864s] Invoking command in '/home/ros2/dev_ws/build/abb_libegm': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/ros2/dev_ws/build/abb_libegm
+[20.235s] -- Install configuration: ""
+[20.235s] -- Installing: /home/ros2/dev_ws/install/abb_libegm/include
+[20.235s] -- Installing: /home/ros2/dev_ws/install/abb_libegm/include/abb_libegm
+[20.235s] -- Installing: /home/ros2/dev_ws/install/abb_libegm/include/abb_libegm/egm_trajectory_interface.h
+[20.235s] -- Installing: /home/ros2/dev_ws/install/abb_libegm/include/abb_libegm/egm_common.h
+[20.235s] -- Installing: /home/ros2/dev_ws/install/abb_libegm/include/abb_libegm/egm_logger.h
+[20.236s] -- Installing: /home/ros2/dev_ws/install/abb_libegm/include/abb_libegm/egm_base_interface.h
+[20.236s] -- Installing: /home/ros2/dev_ws/install/abb_libegm/include/abb_libegm/egm_interpolator.h
+[20.236s] -- Installing: /home/ros2/dev_ws/install/abb_libegm/include/abb_libegm/egm_controller_interface.h
+[20.236s] -- Installing: /home/ros2/dev_ws/install/abb_libegm/include/abb_libegm/egm_udp_server.h
+[20.236s] -- Installing: /home/ros2/dev_ws/install/abb_libegm/include/abb_libegm/egm_common_auxiliary.h
+[20.236s] -- Installing: /home/ros2/dev_ws/install/abb_libegm/include/abb_libegm/egm.proto
+[20.236s] -- Installing: /home/ros2/dev_ws/install/abb_libegm/include/abb_libegm/egm_wrapper.proto
+[20.236s] -- Installing: /home/ros2/dev_ws/install/abb_libegm/include/abb_libegm/egm_wrapper_trajectory.proto
+[20.236s] -- Installing: /home/ros2/dev_ws/install/abb_libegm/include/abb_libegm/egm.pb.h
+[20.236s] -- Installing: /home/ros2/dev_ws/install/abb_libegm/include/abb_libegm/egm_wrapper.pb.h
+[20.236s] -- Installing: /home/ros2/dev_ws/install/abb_libegm/include/abb_libegm/egm_wrapper_trajectory.pb.h
+[20.236s] -- Installing: /home/ros2/dev_ws/install/abb_libegm/include/abb_libegm/abb_libegm_export.h
+[20.237s] -- Installing: /home/ros2/dev_ws/install/abb_libegm/lib/libabb_libegm.so
+[20.237s] -- Installing: /home/ros2/dev_ws/install/abb_libegm/share/abb_libegm/abb_libegmConfig.cmake
+[20.237s] -- Installing: /home/ros2/dev_ws/install/abb_libegm/share/abb_libegm/abb_libegmConfigVersion.cmake
+[20.237s] -- Installing: /home/ros2/dev_ws/install/abb_libegm/share/abb_libegm/package.xml
+[20.237s] -- Installing: /home/ros2/dev_ws/install/abb_libegm/share/abb_libegm/abb_libegmTargets.cmake
+[20.237s] -- Installing: /home/ros2/dev_ws/install/abb_libegm/share/abb_libegm/abb_libegmTargets-noconfig.cmake
+[20.251s] Invoked command in '/home/ros2/dev_ws/build/abb_libegm' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/ros2/dev_ws/build/abb_libegm

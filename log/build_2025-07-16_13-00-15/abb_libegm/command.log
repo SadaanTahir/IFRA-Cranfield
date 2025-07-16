@@ -1,6 +1,0 @@
-Invoking command in '/home/ros2/dev_ws/build/abb_libegm': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/ros2/dev_ws/src/ABBDriver/abb_libegm -DCMAKE_INSTALL_PREFIX=/home/ros2/dev_ws/install/abb_libegm
-Invoked command in '/home/ros2/dev_ws/build/abb_libegm' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/ros2/dev_ws/src/ABBDriver/abb_libegm -DCMAKE_INSTALL_PREFIX=/home/ros2/dev_ws/install/abb_libegm
-Invoking command in '/home/ros2/dev_ws/build/abb_libegm': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/ros2/dev_ws/build/abb_libegm -- -j16 -l16
-Invoked command in '/home/ros2/dev_ws/build/abb_libegm' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/ros2/dev_ws/build/abb_libegm -- -j16 -l16
-Invoking command in '/home/ros2/dev_ws/build/abb_libegm': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/ros2/dev_ws/build/abb_libegm
-Invoked command in '/home/ros2/dev_ws/build/abb_libegm' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/ros2/dev_ws/build/abb_libegm

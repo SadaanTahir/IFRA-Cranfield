@@ -1,0 +1,51 @@
+[0.062s] Invoking command in '/home/ros2/dev_ws/build/ros2srrc_launch': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake /home/ros2/dev_ws/src/ros2_SimRealRobotControl/ros2srrc_launch -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/ros2/dev_ws/install/ros2srrc_launch
+[0.637s] -- The C compiler identification is GNU 11.4.0
+[0.756s] -- The CXX compiler identification is GNU 11.4.0
+[0.788s] -- Detecting C compiler ABI info
+[1.070s] -- Detecting C compiler ABI info - done
+[1.089s] -- Check for working C compiler: /usr/bin/cc - skipped
+[1.104s] -- Detecting C compile features
+[1.105s] -- Detecting C compile features - done
+[1.125s] -- Detecting CXX compiler ABI info
+[1.650s] -- Detecting CXX compiler ABI info - done
+[1.704s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[1.705s] -- Detecting CXX compile features
+[1.705s] -- Detecting CXX compile features - done
+[1.723s] -- Found ament_cmake: 1.3.11 (/opt/ros/humble/share/ament_cmake/cmake)
+[2.676s] -- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+[3.025s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[3.236s] -- Found ament_lint_auto: 0.12.12 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[3.734s] -- Added test 'copyright' to check source files copyright and LICENSE
+[3.745s] -- Added test 'flake8' to check Python code syntax and style conventions
+[3.758s] -- Added test 'lint_cmake' to check CMake code style
+[3.760s] -- Added test 'pep257' to check Python code against some of the docstring style conventions in PEP 257
+[3.770s] -- Added test 'xmllint' to check XML markup files
+[3.786s] -- Configuring done
+[3.794s] -- Generating done
+[3.795s] -- Build files have been written to: /home/ros2/dev_ws/build/ros2srrc_launch
+[3.829s] Invoked command in '/home/ros2/dev_ws/build/ros2srrc_launch' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake /home/ros2/dev_ws/src/ros2_SimRealRobotControl/ros2srrc_launch -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/ros2/dev_ws/install/ros2srrc_launch
+[3.830s] Invoking command in '/home/ros2/dev_ws/build/ros2srrc_launch': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/ros2/dev_ws/build/ros2srrc_launch -- -j16 -l16
+[5.615s] Invoked command in '/home/ros2/dev_ws/build/ros2srrc_launch' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/ros2/dev_ws/build/ros2srrc_launch -- -j16 -l16
+[5.618s] Invoking command in '/home/ros2/dev_ws/build/ros2srrc_launch': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/ros2/dev_ws/build/ros2srrc_launch
+[5.988s] -- Install configuration: ""
+[5.989s] -- Execute custom install script
+[5.989s] -- Symlinking: /home/ros2/dev_ws/install/ros2srrc_launch/share/ros2srrc_launch/gazebo/simulation.launch.py
+[5.989s] -- Symlinking: /home/ros2/dev_ws/install/ros2srrc_launch/share/ros2srrc_launch/moveit2/moveit2.launch.py
+[5.989s] -- Symlinking: /home/ros2/dev_ws/install/ros2srrc_launch/share/ros2srrc_launch/bringup/bringup_abb.launch.py
+[5.989s] -- Symlinking: /home/ros2/dev_ws/install/ros2srrc_launch/share/ros2srrc_launch/bringup/bringup_ur.launch.py
+[5.989s] -- Symlinking: /home/ros2/dev_ws/install/ros2srrc_launch/share/ament_index/resource_index/package_run_dependencies/ros2srrc_launch
+[5.989s] -- Symlinking: /home/ros2/dev_ws/install/ros2srrc_launch/share/ament_index/resource_index/parent_prefix_path/ros2srrc_launch
+[5.989s] -- Symlinking: /home/ros2/dev_ws/install/ros2srrc_launch/share/ros2srrc_launch/environment/ament_prefix_path.sh
+[5.989s] -- Symlinking: /home/ros2/dev_ws/install/ros2srrc_launch/share/ros2srrc_launch/environment/ament_prefix_path.dsv
+[5.989s] -- Symlinking: /home/ros2/dev_ws/install/ros2srrc_launch/share/ros2srrc_launch/environment/path.sh
+[5.989s] -- Symlinking: /home/ros2/dev_ws/install/ros2srrc_launch/share/ros2srrc_launch/environment/path.dsv
+[5.989s] -- Symlinking: /home/ros2/dev_ws/install/ros2srrc_launch/share/ros2srrc_launch/local_setup.bash
+[5.990s] -- Symlinking: /home/ros2/dev_ws/install/ros2srrc_launch/share/ros2srrc_launch/local_setup.sh
+[5.990s] -- Symlinking: /home/ros2/dev_ws/install/ros2srrc_launch/share/ros2srrc_launch/local_setup.zsh
+[5.990s] -- Symlinking: /home/ros2/dev_ws/install/ros2srrc_launch/share/ros2srrc_launch/local_setup.dsv
+[5.990s] -- Symlinking: /home/ros2/dev_ws/install/ros2srrc_launch/share/ros2srrc_launch/package.dsv
+[6.011s] -- Symlinking: /home/ros2/dev_ws/install/ros2srrc_launch/share/ament_index/resource_index/packages/ros2srrc_launch
+[6.036s] -- Symlinking: /home/ros2/dev_ws/install/ros2srrc_launch/share/ros2srrc_launch/cmake/ros2srrc_launchConfig.cmake
+[6.058s] -- Symlinking: /home/ros2/dev_ws/install/ros2srrc_launch/share/ros2srrc_launch/cmake/ros2srrc_launchConfig-version.cmake
+[6.090s] -- Symlinking: /home/ros2/dev_ws/install/ros2srrc_launch/share/ros2srrc_launch/package.xml
+[6.130s] Invoked command in '/home/ros2/dev_ws/build/ros2srrc_launch' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/ros2/dev_ws/build/ros2srrc_launch
