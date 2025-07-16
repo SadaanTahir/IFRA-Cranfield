@@ -1,0 +1,1 @@
+/home/ros2/dev_ws/build/ros2_objectpose/ament_cmake_core/ros2_objectposeConfig.cmake

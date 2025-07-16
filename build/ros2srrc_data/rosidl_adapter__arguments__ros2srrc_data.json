@@ -1,0 +1,18 @@
+{
+  "package_name": "ros2srrc_data",
+  "non_idl_tuples": [
+    "/home/ros2/dev_ws/src/ros2_SimRealRobotControl/ros2srrc_data:msg/Specs.msg",
+    "/home/ros2/dev_ws/src/ros2_SimRealRobotControl/ros2srrc_data:msg/Robmove.msg",
+    "/home/ros2/dev_ws/src/ros2_SimRealRobotControl/ros2srrc_data:msg/Joint.msg",
+    "/home/ros2/dev_ws/src/ros2_SimRealRobotControl/ros2srrc_data:msg/Joints.msg",
+    "/home/ros2/dev_ws/src/ros2_SimRealRobotControl/ros2srrc_data:msg/Xyz.msg",
+    "/home/ros2/dev_ws/src/ros2_SimRealRobotControl/ros2srrc_data:msg/Xyzypr.msg",
+    "/home/ros2/dev_ws/src/ros2_SimRealRobotControl/ros2srrc_data:msg/Ypr.msg",
+    "/home/ros2/dev_ws/src/ros2_SimRealRobotControl/ros2srrc_data:msg/Action.msg",
+    "/home/ros2/dev_ws/src/ros2_SimRealRobotControl/ros2srrc_data:msg/Linkattacher.msg",
+    "/home/ros2/dev_ws/src/ros2_SimRealRobotControl/ros2srrc_data:msg/Robpose.msg",
+    "/home/ros2/dev_ws/src/ros2_SimRealRobotControl/ros2srrc_data:action/Move.action",
+    "/home/ros2/dev_ws/src/ros2_SimRealRobotControl/ros2srrc_data:action/Sequence.action",
+    "/home/ros2/dev_ws/src/ros2_SimRealRobotControl/ros2srrc_data:action/Robmove.action"
+  ]
+}

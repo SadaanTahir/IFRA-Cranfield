@@ -1,0 +1,138 @@
+[0.041s] Invoking command in '/home/ros2/dev_ws/build/ros2srrc_endeffectors': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/ros2/dev_ws/src/ros2_SimRealRobotControl/ros2srrc_endeffectors -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/ros2/dev_ws/install/ros2srrc_endeffectors
+[0.947s] -- The C compiler identification is GNU 11.4.0
+[0.947s] -- The CXX compiler identification is GNU 11.4.0
+[0.947s] -- Detecting C compiler ABI info
+[0.947s] -- Detecting C compiler ABI info - done
+[0.947s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.947s] -- Detecting C compile features
+[0.947s] -- Detecting C compile features - done
+[0.947s] -- Detecting CXX compiler ABI info
+[0.948s] -- Detecting CXX compiler ABI info - done
+[0.948s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.948s] -- Detecting CXX compile features
+[0.948s] -- Detecting CXX compile features - done
+[0.948s] -- Found ament_cmake: 1.3.11 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.948s] -- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+[0.948s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[0.948s] -- Found ament_lint_auto: 0.12.12 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[0.961s] -- Added test 'copyright' to check source files copyright and LICENSE
+[0.967s] -- Added test 'lint_cmake' to check CMake code style
+[0.972s] -- Added test 'xmllint' to check XML markup files
+[0.975s] -- Configuring done
+[0.977s] -- Generating done
+[0.980s] -- Build files have been written to: /home/ros2/dev_ws/build/ros2srrc_endeffectors
+[0.996s] Invoked command in '/home/ros2/dev_ws/build/ros2srrc_endeffectors' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/ros2/dev_ws/src/ros2_SimRealRobotControl/ros2srrc_endeffectors -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/ros2/dev_ws/install/ros2srrc_endeffectors
+[0.997s] Invoking command in '/home/ros2/dev_ws/build/ros2srrc_endeffectors': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/ros2/dev_ws/build/ros2srrc_endeffectors -- -j16 -l16
+[2.783s] Invoked command in '/home/ros2/dev_ws/build/ros2srrc_endeffectors' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/ros2/dev_ws/build/ros2srrc_endeffectors -- -j16 -l16
+[2.791s] Invoking command in '/home/ros2/dev_ws/build/ros2srrc_endeffectors': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/ros2/dev_ws/build/ros2srrc_endeffectors
+[3.253s] -- Install configuration: ""
+[3.253s] -- Execute custom install script
+[3.253s] -- Symlinking: /home/ros2/dev_ws/install/ros2srrc_endeffectors/share/ros2srrc_endeffectors/egp64/config/controller.yaml
+[3.253s] -- Symlinking: /home/ros2/dev_ws/install/ros2srrc_endeffectors/share/ros2srrc_endeffectors/egp64/config/controller_moveit2.yaml
+[3.254s] -- Symlinking: /home/ros2/dev_ws/install/ros2srrc_endeffectors/share/ros2srrc_endeffectors/egp64/config/joint_limits.yaml
+[3.254s] -- Symlinking: /home/ros2/dev_ws/install/ros2srrc_endeffectors/share/ros2srrc_endeffectors/egp64/config/joint_specifications.yaml
+[3.254s] -- Symlinking: /home/ros2/dev_ws/install/ros2srrc_endeffectors/share/ros2srrc_endeffectors/egp64/meshes/00. Schunk Gripper - Component POSES
+[3.254s] -- Symlinking: /home/ros2/dev_ws/install/ros2srrc_endeffectors/share/ros2srrc_endeffectors/egp64/meshes/Schunk Gripper - ADAPTER.STL
+[3.254s] -- Symlinking: /home/ros2/dev_ws/install/ros2srrc_endeffectors/share/ros2srrc_endeffectors/egp64/meshes/Schunk Gripper - BASE noAdapter.STL
+[3.254s] -- Symlinking: /home/ros2/dev_ws/install/ros2srrc_endeffectors/share/ros2srrc_endeffectors/egp64/meshes/Schunk Gripper - BASE.STL
+[3.254s] -- Symlinking: /home/ros2/dev_ws/install/ros2srrc_endeffectors/share/ros2srrc_endeffectors/egp64/meshes/Schunk Gripper - Cranfield Robotics.STL
+[3.254s] -- Symlinking: /home/ros2/dev_ws/install/ros2srrc_endeffectors/share/ros2srrc_endeffectors/egp64/meshes/Schunk Gripper - LEFT FINGER BASE.STL
+[3.254s] -- Symlinking: /home/ros2/dev_ws/install/ros2srrc_endeffectors/share/ros2srrc_endeffectors/egp64/meshes/Schunk Gripper - LEFT FINGER.STL
+[3.254s] -- Symlinking: /home/ros2/dev_ws/install/ros2srrc_endeffectors/share/ros2srrc_endeffectors/egp64/meshes/Schunk Gripper - RIGHT FINGER BASE.STL
+[3.258s] -- Symlinking: /home/ros2/dev_ws/install/ros2srrc_endeffectors/share/ros2srrc_endeffectors/egp64/meshes/Schunk Gripper - RIGHT FINGER.STL
+[3.259s] -- Symlinking: /home/ros2/dev_ws/install/ros2srrc_endeffectors/share/ros2srrc_endeffectors/egp64/meshes/egp64.dae
+[3.259s] -- Symlinking: /home/ros2/dev_ws/install/ros2srrc_endeffectors/share/ros2srrc_endeffectors/egp64/meshes/egp64_Adapter.dae
+[3.259s] -- Symlinking: /home/ros2/dev_ws/install/ros2srrc_endeffectors/share/ros2srrc_endeffectors/egp64/meshes/egp64_BDFinger.dae
+[3.259s] -- Symlinking: /home/ros2/dev_ws/install/ros2srrc_endeffectors/share/ros2srrc_endeffectors/egp64/meshes/egp64_BDFinger_L.dae
+[3.260s] -- Symlinking: /home/ros2/dev_ws/install/ros2srrc_endeffectors/share/ros2srrc_endeffectors/egp64/meshes/egp64_BDFinger_R.dae
+[3.296s] -- Symlinking: /home/ros2/dev_ws/install/ros2srrc_endeffectors/share/ros2srrc_endeffectors/egp64/meshes/egp64_Base.dae
+[3.313s] -- Symlinking: /home/ros2/dev_ws/install/ros2srrc_endeffectors/share/ros2srrc_endeffectors/egp64/meshes/egp64_BaseNoAdapter.dae
+[3.352s] -- Symlinking: /home/ros2/dev_ws/install/ros2srrc_endeffectors/share/ros2srrc_endeffectors/egp64/meshes/egp64_FingerCylinder.dae
+[3.368s] -- Symlinking: /home/ros2/dev_ws/install/ros2srrc_endeffectors/share/ros2srrc_endeffectors/egp64/meshes/egp64_FingerCylinder.stl
+[3.416s] -- Symlinking: /home/ros2/dev_ws/install/ros2srrc_endeffectors/share/ros2srrc_endeffectors/egp64/meshes/egp64_FingerCylinder_L.dae
+[3.443s] -- Symlinking: /home/ros2/dev_ws/install/ros2srrc_endeffectors/share/ros2srrc_endeffectors/egp64/meshes/egp64_FingerCylinder_R.dae
+[3.473s] -- Symlinking: /home/ros2/dev_ws/install/ros2srrc_endeffectors/share/ros2srrc_endeffectors/egp64/meshes/egp64_LeftFinger.dae
+[3.502s] -- Symlinking: /home/ros2/dev_ws/install/ros2srrc_endeffectors/share/ros2srrc_endeffectors/egp64/meshes/egp64_LeftFingerBase.dae
+[3.515s] -- Symlinking: /home/ros2/dev_ws/install/ros2srrc_endeffectors/share/ros2srrc_endeffectors/egp64/meshes/egp64_RightFinger.dae
+[3.562s] -- Symlinking: /home/ros2/dev_ws/install/ros2srrc_endeffectors/share/ros2srrc_endeffectors/egp64/meshes/egp64_RightFingerBase.dae
+[3.591s] -- Symlinking: /home/ros2/dev_ws/install/ros2srrc_endeffectors/share/ros2srrc_endeffectors/egp64/urdf/egp64_macro.urdf.xacro
+[3.612s] -- Symlinking: /home/ros2/dev_ws/install/ros2srrc_endeffectors/share/ros2srrc_endeffectors/egp64/urdf/egp64_ros2control.xacro
+[3.636s] -- Symlinking: /home/ros2/dev_ws/install/ros2srrc_endeffectors/share/ros2srrc_endeffectors/egp64/urdf/egp64_transmission.xacro
+[3.663s] -- Symlinking: /home/ros2/dev_ws/install/ros2srrc_endeffectors/share/ros2srrc_endeffectors/egp64/urdf/egp64v2_macro.urdf.xacro
+[3.689s] -- Symlinking: /home/ros2/dev_ws/install/ros2srrc_endeffectors/share/ros2srrc_endeffectors/egp64/urdf/egp64v3_macro.urdf.xacro
+[3.720s] -- Symlinking: /home/ros2/dev_ws/install/ros2srrc_endeffectors/share/ros2srrc_endeffectors/gpp5010nc/config/controller.yaml
+[3.745s] -- Symlinking: /home/ros2/dev_ws/install/ros2srrc_endeffectors/share/ros2srrc_endeffectors/gpp5010nc/config/controller_moveit2.yaml
+[3.777s] -- Symlinking: /home/ros2/dev_ws/install/ros2srrc_endeffectors/share/ros2srrc_endeffectors/gpp5010nc/config/joint_limits.yaml
+[3.807s] -- Symlinking: /home/ros2/dev_ws/install/ros2srrc_endeffectors/share/ros2srrc_endeffectors/gpp5010nc/config/joint_specifications.yaml
+[3.849s] -- Symlinking: /home/ros2/dev_ws/install/ros2srrc_endeffectors/share/ros2srrc_endeffectors/gpp5010nc/meshes/gpp5010nc_LeftFinger.dae
+[3.881s] -- Symlinking: /home/ros2/dev_ws/install/ros2srrc_endeffectors/share/ros2srrc_endeffectors/gpp5010nc/meshes/gpp5010nc_LeftFinger_v2.dae
+[3.916s] -- Symlinking: /home/ros2/dev_ws/install/ros2srrc_endeffectors/share/ros2srrc_endeffectors/gpp5010nc/meshes/gpp5010nc_LeftFinger_v3.dae
+[3.945s] -- Symlinking: /home/ros2/dev_ws/install/ros2srrc_endeffectors/share/ros2srrc_endeffectors/gpp5010nc/meshes/gpp5010nc_MainBody.dae
+[3.969s] -- Symlinking: /home/ros2/dev_ws/install/ros2srrc_endeffectors/share/ros2srrc_endeffectors/gpp5010nc/meshes/gpp5010nc_RightFinger.dae
+[3.991s] -- Symlinking: /home/ros2/dev_ws/install/ros2srrc_endeffectors/share/ros2srrc_endeffectors/gpp5010nc/meshes/gpp5010nc_RightFinger_v2.dae
+[4.011s] -- Symlinking: /home/ros2/dev_ws/install/ros2srrc_endeffectors/share/ros2srrc_endeffectors/gpp5010nc/meshes/gpp5010nc_RightFinger_v3.dae
+[4.034s] -- Symlinking: /home/ros2/dev_ws/install/ros2srrc_endeffectors/share/ros2srrc_endeffectors/gpp5010nc/meshes/gpp5010nc_irb1200_Adapter.dae
+[4.059s] -- Symlinking: /home/ros2/dev_ws/install/ros2srrc_endeffectors/share/ros2srrc_endeffectors/gpp5010nc/meshes/gpp5010nc_irb6640_Adapter.dae
+[4.072s] -- Symlinking: /home/ros2/dev_ws/install/ros2srrc_endeffectors/share/ros2srrc_endeffectors/gpp5010nc/urdf/gpp5010nc_macro.urdf.xacro
+[4.103s] -- Symlinking: /home/ros2/dev_ws/install/ros2srrc_endeffectors/share/ros2srrc_endeffectors/gpp5010nc/urdf/gpp5010nc_ros2control.xacro
+[4.132s] -- Symlinking: /home/ros2/dev_ws/install/ros2srrc_endeffectors/share/ros2srrc_endeffectors/gpp5010nc/urdf/gpp5010nc_transmission.xacro
+[4.172s] -- Symlinking: /home/ros2/dev_ws/install/ros2srrc_endeffectors/share/ros2srrc_endeffectors/gpp5010nc/urdf/gpp5010ncv2_macro.urdf.xacro
+[4.195s] -- Symlinking: /home/ros2/dev_ws/install/ros2srrc_endeffectors/share/ros2srrc_endeffectors/gpp5010nc/urdf/gpp5010ncv3_macro.urdf.xacro
+[4.225s] -- Symlinking: /home/ros2/dev_ws/install/ros2srrc_endeffectors/share/ros2srrc_endeffectors/ls_vgr/meshes/ls_vgr.dae
+[4.252s] -- Symlinking: /home/ros2/dev_ws/install/ros2srrc_endeffectors/share/ros2srrc_endeffectors/ls_vgr/urdf/ls_vgr_macro.urdf.xacro
+[4.290s] -- Symlinking: /home/ros2/dev_ws/install/ros2srrc_endeffectors/share/ros2srrc_endeffectors/ls_vgr/urdf/ls_vgr_ros2control.xacro
+[4.313s] -- Symlinking: /home/ros2/dev_ws/install/ros2srrc_endeffectors/share/ros2srrc_endeffectors/ls_vgr/urdf/ls_vgr_transmission.xacro
+[4.338s] -- Symlinking: /home/ros2/dev_ws/install/ros2srrc_endeffectors/share/ros2srrc_endeffectors/ls_vgr_amrc/meshes/ls_vgr_amrc.dae
+[4.358s] -- Symlinking: /home/ros2/dev_ws/install/ros2srrc_endeffectors/share/ros2srrc_endeffectors/ls_vgr_amrc/urdf/ls_vgr_amrc_macro.urdf.xacro
+[4.406s] -- Symlinking: /home/ros2/dev_ws/install/ros2srrc_endeffectors/share/ros2srrc_endeffectors/ls_vgr_amrc/urdf/ls_vgr_amrc_ros2control.xacro
+[4.436s] -- Symlinking: /home/ros2/dev_ws/install/ros2srrc_endeffectors/share/ros2srrc_endeffectors/ls_vgr_amrc/urdf/ls_vgr_amrc_transmission.xacro
+[4.458s] -- Symlinking: /home/ros2/dev_ws/install/ros2srrc_endeffectors/share/ros2srrc_endeffectors/robotiq_2f85/config/controller.yaml
+[4.490s] -- Symlinking: /home/ros2/dev_ws/install/ros2srrc_endeffectors/share/ros2srrc_endeffectors/robotiq_2f85/config/controller_moveit2.yaml
+[4.522s] -- Symlinking: /home/ros2/dev_ws/install/ros2srrc_endeffectors/share/ros2srrc_endeffectors/robotiq_2f85/config/joint_limits.yaml
+[4.547s] -- Symlinking: /home/ros2/dev_ws/install/ros2srrc_endeffectors/share/ros2srrc_endeffectors/robotiq_2f85/config/joint_specifications.yaml
+[4.579s] -- Symlinking: /home/ros2/dev_ws/install/ros2srrc_endeffectors/share/ros2srrc_endeffectors/robotiq_2f85/meshes/collision/robotiq_85_base_link.stl
+[4.605s] -- Symlinking: /home/ros2/dev_ws/install/ros2srrc_endeffectors/share/ros2srrc_endeffectors/robotiq_2f85/meshes/collision/robotiq_85_finger_link.stl
+[4.627s] -- Symlinking: /home/ros2/dev_ws/install/ros2srrc_endeffectors/share/ros2srrc_endeffectors/robotiq_2f85/meshes/collision/robotiq_85_finger_tip_link.stl
+[4.652s] -- Symlinking: /home/ros2/dev_ws/install/ros2srrc_endeffectors/share/ros2srrc_endeffectors/robotiq_2f85/meshes/collision/robotiq_85_inner_knuckle_link.stl
+[4.708s] -- Symlinking: /home/ros2/dev_ws/install/ros2srrc_endeffectors/share/ros2srrc_endeffectors/robotiq_2f85/meshes/collision/robotiq_85_knuckle_link.stl
+[4.729s] -- Symlinking: /home/ros2/dev_ws/install/ros2srrc_endeffectors/share/ros2srrc_endeffectors/robotiq_2f85/meshes/robotiq_85_coupler.stl
+[4.775s] -- Symlinking: /home/ros2/dev_ws/install/ros2srrc_endeffectors/share/ros2srrc_endeffectors/robotiq_2f85/meshes/visual/robotiq_85_base_link.dae
+[4.803s] -- Symlinking: /home/ros2/dev_ws/install/ros2srrc_endeffectors/share/ros2srrc_endeffectors/robotiq_2f85/meshes/visual/robotiq_85_finger_link.dae
+[4.825s] -- Symlinking: /home/ros2/dev_ws/install/ros2srrc_endeffectors/share/ros2srrc_endeffectors/robotiq_2f85/meshes/visual/robotiq_85_finger_tip_link.dae
+[4.852s] -- Symlinking: /home/ros2/dev_ws/install/ros2srrc_endeffectors/share/ros2srrc_endeffectors/robotiq_2f85/meshes/visual/robotiq_85_inner_knuckle_link.dae
+[4.891s] -- Symlinking: /home/ros2/dev_ws/install/ros2srrc_endeffectors/share/ros2srrc_endeffectors/robotiq_2f85/meshes/visual/robotiq_85_knuckle_link.dae
+[4.923s] -- Symlinking: /home/ros2/dev_ws/install/ros2srrc_endeffectors/share/ros2srrc_endeffectors/robotiq_2f85/urdf/robotiq_2f85_macro.urdf.xacro
+[4.954s] -- Symlinking: /home/ros2/dev_ws/install/ros2srrc_endeffectors/share/ros2srrc_endeffectors/robotiq_2f85/urdf/robotiq_2f85_ros2control.xacro
+[4.985s] -- Symlinking: /home/ros2/dev_ws/install/ros2srrc_endeffectors/share/ros2srrc_endeffectors/robotiq_2f85/urdf/robotiq_2f85_transmission.xacro
+[5.006s] -- Symlinking: /home/ros2/dev_ws/install/ros2srrc_endeffectors/share/ros2srrc_endeffectors/robotiq_hande/config/controller.yaml
+[5.030s] -- Symlinking: /home/ros2/dev_ws/install/ros2srrc_endeffectors/share/ros2srrc_endeffectors/robotiq_hande/config/controller_moveit2.yaml
+[5.054s] -- Symlinking: /home/ros2/dev_ws/install/ros2srrc_endeffectors/share/ros2srrc_endeffectors/robotiq_hande/config/joint_limits.yaml
+[5.079s] -- Symlinking: /home/ros2/dev_ws/install/ros2srrc_endeffectors/share/ros2srrc_endeffectors/robotiq_hande/config/joint_specifications.yaml
+[5.119s] -- Symlinking: /home/ros2/dev_ws/install/ros2srrc_endeffectors/share/ros2srrc_endeffectors/robotiq_hande/meshes/finger_1.dae
+[5.142s] -- Symlinking: /home/ros2/dev_ws/install/ros2srrc_endeffectors/share/ros2srrc_endeffectors/robotiq_hande/meshes/finger_1v2.dae
+[5.165s] -- Symlinking: /home/ros2/dev_ws/install/ros2srrc_endeffectors/share/ros2srrc_endeffectors/robotiq_hande/meshes/finger_2.dae
+[5.192s] -- Symlinking: /home/ros2/dev_ws/install/ros2srrc_endeffectors/share/ros2srrc_endeffectors/robotiq_hande/meshes/finger_2v2.dae
+[5.214s] -- Symlinking: /home/ros2/dev_ws/install/ros2srrc_endeffectors/share/ros2srrc_endeffectors/robotiq_hande/meshes/hand-e.dae
+[5.231s] -- Symlinking: /home/ros2/dev_ws/install/ros2srrc_endeffectors/share/ros2srrc_endeffectors/robotiq_hande/meshes/hande_bracket.dae
+[5.250s] -- Symlinking: /home/ros2/dev_ws/install/ros2srrc_endeffectors/share/ros2srrc_endeffectors/robotiq_hande/meshes/robotiq_hande.dae
+[5.279s] -- Symlinking: /home/ros2/dev_ws/install/ros2srrc_endeffectors/share/ros2srrc_endeffectors/robotiq_hande/meshes/robotiq_hande_coupler.stl
+[5.304s] -- Symlinking: /home/ros2/dev_ws/install/ros2srrc_endeffectors/share/ros2srrc_endeffectors/robotiq_hande/urdf/robotiq_hande_macro.urdf.xacro
+[5.323s] -- Symlinking: /home/ros2/dev_ws/install/ros2srrc_endeffectors/share/ros2srrc_endeffectors/robotiq_hande/urdf/robotiq_hande_ros2control.xacro
+[5.361s] -- Symlinking: /home/ros2/dev_ws/install/ros2srrc_endeffectors/share/ros2srrc_endeffectors/robotiq_hande/urdf/robotiq_hande_transmission.xacro
+[5.382s] -- Symlinking: /home/ros2/dev_ws/install/ros2srrc_endeffectors/share/ros2srrc_endeffectors/robotiq_hande/urdf/robotiq_handev2_macro.urdf.xacro
+[5.400s] -- Symlinking: /home/ros2/dev_ws/install/ros2srrc_endeffectors/share/ament_index/resource_index/package_run_dependencies/ros2srrc_endeffectors
+[5.415s] -- Symlinking: /home/ros2/dev_ws/install/ros2srrc_endeffectors/share/ament_index/resource_index/parent_prefix_path/ros2srrc_endeffectors
+[5.440s] -- Symlinking: /home/ros2/dev_ws/install/ros2srrc_endeffectors/share/ros2srrc_endeffectors/environment/ament_prefix_path.sh
+[5.479s] -- Symlinking: /home/ros2/dev_ws/install/ros2srrc_endeffectors/share/ros2srrc_endeffectors/environment/ament_prefix_path.dsv
+[5.520s] -- Symlinking: /home/ros2/dev_ws/install/ros2srrc_endeffectors/share/ros2srrc_endeffectors/environment/path.sh
+[5.561s] -- Symlinking: /home/ros2/dev_ws/install/ros2srrc_endeffectors/share/ros2srrc_endeffectors/environment/path.dsv
+[5.586s] -- Symlinking: /home/ros2/dev_ws/install/ros2srrc_endeffectors/share/ros2srrc_endeffectors/local_setup.bash
+[5.638s] -- Symlinking: /home/ros2/dev_ws/install/ros2srrc_endeffectors/share/ros2srrc_endeffectors/local_setup.sh
+[5.663s] -- Symlinking: /home/ros2/dev_ws/install/ros2srrc_endeffectors/share/ros2srrc_endeffectors/local_setup.zsh
+[5.700s] -- Symlinking: /home/ros2/dev_ws/install/ros2srrc_endeffectors/share/ros2srrc_endeffectors/local_setup.dsv
+[5.742s] -- Symlinking: /home/ros2/dev_ws/install/ros2srrc_endeffectors/share/ros2srrc_endeffectors/package.dsv
+[5.799s] -- Symlinking: /home/ros2/dev_ws/install/ros2srrc_endeffectors/share/ament_index/resource_index/packages/ros2srrc_endeffectors
+[5.814s] -- Symlinking: /home/ros2/dev_ws/install/ros2srrc_endeffectors/share/ros2srrc_endeffectors/cmake/ros2srrc_endeffectorsConfig.cmake
+[5.853s] -- Symlinking: /home/ros2/dev_ws/install/ros2srrc_endeffectors/share/ros2srrc_endeffectors/cmake/ros2srrc_endeffectorsConfig-version.cmake
+[5.877s] -- Symlinking: /home/ros2/dev_ws/install/ros2srrc_endeffectors/share/ros2srrc_endeffectors/package.xml
+[5.910s] Invoked command in '/home/ros2/dev_ws/build/ros2srrc_endeffectors' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/ros2/dev_ws/build/ros2srrc_endeffectors

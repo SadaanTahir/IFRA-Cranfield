@@ -1,0 +1,13 @@
+/home/ros2/dev_ws/build/ros2srrc_data/rosidl_adapter/ros2srrc_data:msg/Specs.idl
+/home/ros2/dev_ws/build/ros2srrc_data/rosidl_adapter/ros2srrc_data:msg/Robmove.idl
+/home/ros2/dev_ws/build/ros2srrc_data/rosidl_adapter/ros2srrc_data:msg/Joint.idl
+/home/ros2/dev_ws/build/ros2srrc_data/rosidl_adapter/ros2srrc_data:msg/Joints.idl
+/home/ros2/dev_ws/build/ros2srrc_data/rosidl_adapter/ros2srrc_data:msg/Xyz.idl
+/home/ros2/dev_ws/build/ros2srrc_data/rosidl_adapter/ros2srrc_data:msg/Xyzypr.idl
+/home/ros2/dev_ws/build/ros2srrc_data/rosidl_adapter/ros2srrc_data:msg/Ypr.idl
+/home/ros2/dev_ws/build/ros2srrc_data/rosidl_adapter/ros2srrc_data:msg/Action.idl
+/home/ros2/dev_ws/build/ros2srrc_data/rosidl_adapter/ros2srrc_data:msg/Linkattacher.idl
+/home/ros2/dev_ws/build/ros2srrc_data/rosidl_adapter/ros2srrc_data:msg/Robpose.idl
+/home/ros2/dev_ws/build/ros2srrc_data/rosidl_adapter/ros2srrc_data:action/Move.idl
+/home/ros2/dev_ws/build/ros2srrc_data/rosidl_adapter/ros2srrc_data:action/Sequence.idl
+/home/ros2/dev_ws/build/ros2srrc_data/rosidl_adapter/ros2srrc_data:action/Robmove.idl

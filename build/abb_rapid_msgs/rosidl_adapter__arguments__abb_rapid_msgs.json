@@ -1,0 +1,16 @@
+{
+  "package_name": "abb_rapid_msgs",
+  "non_idl_tuples": [
+    "/home/ros2/dev_ws/src/ABBDriver/abb_ros2_msgs/abb_rapid_msgs:msg/ConfData.msg",
+    "/home/ros2/dev_ws/src/ABBDriver/abb_ros2_msgs/abb_rapid_msgs:msg/ExtJoint.msg",
+    "/home/ros2/dev_ws/src/ABBDriver/abb_ros2_msgs/abb_rapid_msgs:msg/JointTarget.msg",
+    "/home/ros2/dev_ws/src/ABBDriver/abb_ros2_msgs/abb_rapid_msgs:msg/LoadData.msg",
+    "/home/ros2/dev_ws/src/ABBDriver/abb_ros2_msgs/abb_rapid_msgs:msg/Orient.msg",
+    "/home/ros2/dev_ws/src/ABBDriver/abb_ros2_msgs/abb_rapid_msgs:msg/Pos.msg",
+    "/home/ros2/dev_ws/src/ABBDriver/abb_ros2_msgs/abb_rapid_msgs:msg/Pose.msg",
+    "/home/ros2/dev_ws/src/ABBDriver/abb_ros2_msgs/abb_rapid_msgs:msg/RobJoint.msg",
+    "/home/ros2/dev_ws/src/ABBDriver/abb_ros2_msgs/abb_rapid_msgs:msg/RobTarget.msg",
+    "/home/ros2/dev_ws/src/ABBDriver/abb_ros2_msgs/abb_rapid_msgs:msg/ToolData.msg",
+    "/home/ros2/dev_ws/src/ABBDriver/abb_ros2_msgs/abb_rapid_msgs:msg/WObjData.msg"
+  ]
+}

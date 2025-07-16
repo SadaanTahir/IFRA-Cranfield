@@ -1,0 +1,6 @@
+{
+  "package_name": "objectpose_msgs",
+  "non_idl_tuples": [
+    "/home/ros2/dev_ws/src/IFRA_ObjectPose/objectpose_msgs:msg/ObjectPose.msg"
+  ]
+}

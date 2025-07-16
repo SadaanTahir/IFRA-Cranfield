@@ -1,0 +1,14 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : [],
+		"nodes" : []
+	},
+	"installers" : [],
+	"paths" : 
+	{
+		"build" : "linkpose_msgs__py",
+		"source" : "/home/ros2/dev_ws/build/linkpose_msgs/linkpose_msgs__py"
+	}
+}

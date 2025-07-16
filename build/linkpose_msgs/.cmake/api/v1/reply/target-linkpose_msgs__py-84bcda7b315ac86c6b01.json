@@ -1,0 +1,79 @@
+{
+	"backtrace" : 1,
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"add_custom_target"
+		],
+		"files" : 
+		[
+			"/home/ros2/dev_ws/build/linkpose_msgs/linkpose_msgs__py/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 34,
+				"parent" : 0
+			}
+		]
+	},
+	"dependencies" : 
+	[
+		{
+			"id" : "linkpose_msgs::@6890427a1f51a3e7e1df"
+		}
+	],
+	"id" : "linkpose_msgs__py::@7dd8b489efb6c06d976d",
+	"name" : "linkpose_msgs__py",
+	"paths" : 
+	{
+		"build" : "linkpose_msgs__py",
+		"source" : "/home/ros2/dev_ws/build/linkpose_msgs/linkpose_msgs__py"
+	},
+	"sourceGroups" : 
+	[
+		{
+			"name" : "",
+			"sourceIndexes" : 
+			[
+				0
+			]
+		},
+		{
+			"name" : "CMake Rules",
+			"sourceIndexes" : 
+			[
+				1,
+				2
+			]
+		}
+	],
+	"sources" : 
+	[
+		{
+			"backtrace" : 1,
+			"isGenerated" : true,
+			"path" : "/home/ros2/dev_ws/build/linkpose_msgs/linkpose_msgs__py/CMakeFiles/linkpose_msgs__py",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/home/ros2/dev_ws/build/linkpose_msgs/linkpose_msgs__py/CMakeFiles/linkpose_msgs__py.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/home/ros2/dev_ws/build/linkpose_msgs/rosidl_generator_py/linkpose_msgs/_linkpose_msgs_s.ep.rosidl_typesupport_fastrtps_c.c.rule",
+			"sourceGroupIndex" : 1
+		}
+	],
+	"type" : "UTILITY"
+}

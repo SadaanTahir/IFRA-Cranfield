@@ -1,0 +1,1 @@
+/home/ros2/dev_ws/src/IFRA_ObjectPose/objectpose_gazebo/launch/objectpose.launch.py

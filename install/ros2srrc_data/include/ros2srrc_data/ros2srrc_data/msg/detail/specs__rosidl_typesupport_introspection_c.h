@@ -1,0 +1,1 @@
+/home/ros2/dev_ws/build/ros2srrc_data/rosidl_typesupport_introspection_c/ros2srrc_data/msg/detail/specs__rosidl_typesupport_introspection_c.h

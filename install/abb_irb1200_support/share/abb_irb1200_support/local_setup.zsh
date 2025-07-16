@@ -1,0 +1,1 @@
+/home/ros2/dev_ws/build/abb_irb1200_support/ament_cmake_environment_hooks/local_setup.zsh

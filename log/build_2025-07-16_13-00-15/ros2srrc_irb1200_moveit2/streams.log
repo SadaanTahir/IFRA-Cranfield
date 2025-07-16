@@ -1,0 +1,49 @@
+[0.093s] Invoking command in '/home/ros2/dev_ws/build/ros2srrc_irb1200_moveit2': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/ros2/dev_ws/src/ros2_SimRealRobotControl/packages/irb1200/ros2srrc_irb1200_moveit2 -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/ros2/dev_ws/install/ros2srrc_irb1200_moveit2
+[3.045s] -- The C compiler identification is GNU 11.4.0
+[3.045s] -- The CXX compiler identification is GNU 11.4.0
+[3.045s] -- Detecting C compiler ABI info
+[3.046s] -- Detecting C compiler ABI info - done
+[3.046s] -- Check for working C compiler: /usr/bin/cc - skipped
+[3.046s] -- Detecting C compile features
+[3.046s] -- Detecting C compile features - done
+[3.046s] -- Detecting CXX compiler ABI info
+[3.046s] -- Detecting CXX compiler ABI info - done
+[3.046s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[3.046s] -- Detecting CXX compile features
+[3.046s] -- Detecting CXX compile features - done
+[3.046s] -- Found ament_cmake: 1.3.11 (/opt/ros/humble/share/ament_cmake/cmake)
+[3.046s] -- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+[3.046s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[3.046s] -- Found ament_lint_auto: 0.12.12 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[3.047s] -- Added test 'copyright' to check source files copyright and LICENSE
+[3.047s] -- Added test 'lint_cmake' to check CMake code style
+[3.047s] -- Added test 'xmllint' to check XML markup files
+[3.047s] -- Configuring done
+[3.047s] -- Generating done
+[3.047s] -- Build files have been written to: /home/ros2/dev_ws/build/ros2srrc_irb1200_moveit2
+[3.070s] Invoked command in '/home/ros2/dev_ws/build/ros2srrc_irb1200_moveit2' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/ros2/dev_ws/src/ros2_SimRealRobotControl/packages/irb1200/ros2srrc_irb1200_moveit2 -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/ros2/dev_ws/install/ros2srrc_irb1200_moveit2
+[3.072s] Invoking command in '/home/ros2/dev_ws/build/ros2srrc_irb1200_moveit2': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/ros2/dev_ws/build/ros2srrc_irb1200_moveit2 -- -j16 -l16
+[3.591s] Invoked command in '/home/ros2/dev_ws/build/ros2srrc_irb1200_moveit2' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/ros2/dev_ws/build/ros2srrc_irb1200_moveit2 -- -j16 -l16
+[3.592s] Invoking command in '/home/ros2/dev_ws/build/ros2srrc_irb1200_moveit2': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/ros2/dev_ws/build/ros2srrc_irb1200_moveit2
+[3.816s] -- Install configuration: ""
+[3.816s] -- Execute custom install script
+[3.816s] -- Symlinking: /home/ros2/dev_ws/install/ros2srrc_irb1200_moveit2/share/ros2srrc_irb1200_moveit2/config/irb1200.srdf
+[3.816s] -- Symlinking: /home/ros2/dev_ws/install/ros2srrc_irb1200_moveit2/share/ros2srrc_irb1200_moveit2/config/irb1200_moveit2.rviz
+[3.816s] -- Symlinking: /home/ros2/dev_ws/install/ros2srrc_irb1200_moveit2/share/ros2srrc_irb1200_moveit2/config/irb1200egp64.srdf
+[3.816s] -- Symlinking: /home/ros2/dev_ws/install/ros2srrc_irb1200_moveit2/share/ros2srrc_irb1200_moveit2/config/irb1200egp64_moveit2.rviz
+[3.816s] -- Symlinking: /home/ros2/dev_ws/install/ros2srrc_irb1200_moveit2/share/ament_index/resource_index/package_run_dependencies/ros2srrc_irb1200_moveit2
+[3.816s] -- Symlinking: /home/ros2/dev_ws/install/ros2srrc_irb1200_moveit2/share/ament_index/resource_index/parent_prefix_path/ros2srrc_irb1200_moveit2
+[3.816s] -- Symlinking: /home/ros2/dev_ws/install/ros2srrc_irb1200_moveit2/share/ros2srrc_irb1200_moveit2/environment/ament_prefix_path.sh
+[3.817s] -- Symlinking: /home/ros2/dev_ws/install/ros2srrc_irb1200_moveit2/share/ros2srrc_irb1200_moveit2/environment/ament_prefix_path.dsv
+[3.836s] -- Symlinking: /home/ros2/dev_ws/install/ros2srrc_irb1200_moveit2/share/ros2srrc_irb1200_moveit2/environment/path.sh
+[3.864s] -- Symlinking: /home/ros2/dev_ws/install/ros2srrc_irb1200_moveit2/share/ros2srrc_irb1200_moveit2/environment/path.dsv
+[3.893s] -- Symlinking: /home/ros2/dev_ws/install/ros2srrc_irb1200_moveit2/share/ros2srrc_irb1200_moveit2/local_setup.bash
+[3.913s] -- Symlinking: /home/ros2/dev_ws/install/ros2srrc_irb1200_moveit2/share/ros2srrc_irb1200_moveit2/local_setup.sh
+[3.942s] -- Symlinking: /home/ros2/dev_ws/install/ros2srrc_irb1200_moveit2/share/ros2srrc_irb1200_moveit2/local_setup.zsh
+[3.977s] -- Symlinking: /home/ros2/dev_ws/install/ros2srrc_irb1200_moveit2/share/ros2srrc_irb1200_moveit2/local_setup.dsv
+[4.003s] -- Symlinking: /home/ros2/dev_ws/install/ros2srrc_irb1200_moveit2/share/ros2srrc_irb1200_moveit2/package.dsv
+[4.026s] -- Symlinking: /home/ros2/dev_ws/install/ros2srrc_irb1200_moveit2/share/ament_index/resource_index/packages/ros2srrc_irb1200_moveit2
+[4.048s] -- Symlinking: /home/ros2/dev_ws/install/ros2srrc_irb1200_moveit2/share/ros2srrc_irb1200_moveit2/cmake/ros2srrc_irb1200_moveit2Config.cmake
+[4.073s] -- Symlinking: /home/ros2/dev_ws/install/ros2srrc_irb1200_moveit2/share/ros2srrc_irb1200_moveit2/cmake/ros2srrc_irb1200_moveit2Config-version.cmake
+[4.096s] -- Symlinking: /home/ros2/dev_ws/install/ros2srrc_irb1200_moveit2/share/ros2srrc_irb1200_moveit2/package.xml
+[4.124s] Invoked command in '/home/ros2/dev_ws/build/ros2srrc_irb1200_moveit2' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/ros2/dev_ws/build/ros2srrc_irb1200_moveit2

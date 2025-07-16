@@ -1,0 +1,1 @@
+/home/ros2/dev_ws/build/objectpose_msgs/rosidl_generator_cpp/objectpose_msgs/msg/detail/object_pose__type_support.hpp

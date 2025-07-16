@@ -1,0 +1,1 @@
+ament_cmake_symlink_install_targets("TARGET_FILES" "/home/ros2/dev_ws/build/ros2_linkpose/libros2_linkpose_plugin.so" "TARGETS" "ros2_linkpose_plugin" "ARCHIVE_DESTINATION" "lib" "LIBRARY_DESTINATION" "lib" "RUNTIME_DESTINATION" "bin")

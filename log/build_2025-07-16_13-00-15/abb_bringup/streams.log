@@ -1,0 +1,82 @@
+[0.280s] Invoking command in '/home/ros2/dev_ws/build/abb_bringup': AMENT_PREFIX_PATH=/home/ros2/dev_ws/install/abb_irb1200_5_90_moveit_config:/home/ros2/dev_ws/install/abb_resources:/home/ros2/dev_ws/install/abb_irb1200_support:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/ros2/dev_ws/install/abb_irb1200_5_90_moveit_config:/home/ros2/dev_ws/install/abb_resources:/home/ros2/dev_ws/install/abb_irb1200_support:/opt/ros/humble /usr/bin/cmake /home/ros2/dev_ws/src/ABBDriver/abb_ros2/abb_bringup -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/ros2/dev_ws/install/abb_bringup
+[2.360s] -- The C compiler identification is GNU 11.4.0
+[2.360s] -- The CXX compiler identification is GNU 11.4.0
+[2.360s] -- Detecting C compiler ABI info
+[2.360s] -- Detecting C compiler ABI info - done
+[2.360s] -- Check for working C compiler: /usr/bin/cc - skipped
+[2.360s] -- Detecting C compile features
+[2.360s] -- Detecting C compile features - done
+[2.360s] -- Detecting CXX compiler ABI info
+[2.361s] -- Detecting CXX compiler ABI info - done
+[2.361s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[2.361s] -- Detecting CXX compile features
+[2.361s] -- Detecting CXX compile features - done
+[2.361s] -- Found ament_cmake: 1.3.11 (/opt/ros/humble/share/ament_cmake/cmake)
+[2.361s] -- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+[2.361s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[2.361s] -- Found ament_cmake_gtest: 1.3.11 (/opt/ros/humble/share/ament_cmake_gtest/cmake)
+[2.361s] -- Found ament_lint_auto: 0.12.12 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[2.361s] -- Found rclcpp: 16.0.12 (/opt/ros/humble/share/rclcpp/cmake)
+[2.392s] -- Found rosidl_generator_c: 3.1.6 (/opt/ros/humble/share/rosidl_generator_c/cmake)
+[2.399s] -- Found rosidl_adapter: 3.1.6 (/opt/ros/humble/share/rosidl_adapter/cmake)
+[2.420s] -- Found rosidl_generator_cpp: 3.1.6 (/opt/ros/humble/share/rosidl_generator_cpp/cmake)
+[2.445s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[2.496s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[2.683s] -- Found rmw_implementation_cmake: 6.1.2 (/opt/ros/humble/share/rmw_implementation_cmake/cmake)
+[2.691s] -- Found rmw_cyclonedds_cpp: 1.3.4 (/opt/ros/humble/share/rmw_cyclonedds_cpp/cmake)
+[2.848s] -- Using RMW implementation 'rmw_cyclonedds_cpp' as default
+[2.884s] -- Looking for pthread.h
+[4.423s] -- Looking for pthread.h - found
+[4.423s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD
+[4.770s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD - Success
+[4.770s] -- Found Threads: TRUE  
+[4.897s] -- Found ros_testing: 0.4.0 (/opt/ros/humble/share/ros_testing/cmake)
+[4.899s] -- Found launch_testing_ament_cmake: 1.0.9 (/opt/ros/humble/share/launch_testing_ament_cmake/cmake)
+[4.902s] -- Found python_cmake_module: 0.10.0 (/opt/ros/humble/share/python_cmake_module/cmake)
+[4.952s] -- Found PythonInterp: /usr/bin/python3 (found suitable version "3.10.12", minimum required is "3.6") 
+[4.959s] -- Found PythonLibs: /usr/lib/x86_64-linux-gnu/libpython3.10.so (found suitable version "3.10.12", minimum required is "3.5") 
+[4.959s] -- Using PYTHON_EXECUTABLE: /usr/bin/python3
+[4.959s] -- Using PYTHON_INCLUDE_DIRS: /usr/include/python3.10
+[4.959s] -- Using PYTHON_LIBRARIES: /usr/lib/x86_64-linux-gnu/libpython3.10.so
+[5.015s] -- Found PythonExtra: .so  
+[5.025s] -- Found trajectory_msgs: 4.9.0 (/opt/ros/humble/share/trajectory_msgs/cmake)
+[5.089s] -- Found gtest sources under '/opt/ros/humble/src/gtest_vendor': C++ tests using 'Google Test' will be built
+[5.705s] -- Configuring done
+[5.813s] -- Generating done
+[5.847s] -- Build files have been written to: /home/ros2/dev_ws/build/abb_bringup
+[5.880s] Invoked command in '/home/ros2/dev_ws/build/abb_bringup' returned '0': AMENT_PREFIX_PATH=/home/ros2/dev_ws/install/abb_irb1200_5_90_moveit_config:/home/ros2/dev_ws/install/abb_resources:/home/ros2/dev_ws/install/abb_irb1200_support:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/ros2/dev_ws/install/abb_irb1200_5_90_moveit_config:/home/ros2/dev_ws/install/abb_resources:/home/ros2/dev_ws/install/abb_irb1200_support:/opt/ros/humble /usr/bin/cmake /home/ros2/dev_ws/src/ABBDriver/abb_ros2/abb_bringup -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/ros2/dev_ws/install/abb_bringup
+[5.880s] Invoking command in '/home/ros2/dev_ws/build/abb_bringup': AMENT_PREFIX_PATH=/home/ros2/dev_ws/install/abb_irb1200_5_90_moveit_config:/home/ros2/dev_ws/install/abb_resources:/home/ros2/dev_ws/install/abb_irb1200_support:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/ros2/dev_ws/install/abb_irb1200_5_90_moveit_config:/home/ros2/dev_ws/install/abb_resources:/home/ros2/dev_ws/install/abb_irb1200_support:/opt/ros/humble /usr/bin/cmake --build /home/ros2/dev_ws/build/abb_bringup -- -j16 -l16
+[6.241s] [ 16%] [32mBuilding CXX object gtest/CMakeFiles/gtest.dir/src/gtest-all.cc.o[0m
+[6.295s] [ 33%] [32mBuilding CXX object gtest/CMakeFiles/gtest_main.dir/src/gtest_main.cc.o[0m
+[13.285s] [ 50%] [32m[1mLinking CXX static library libgtest_main.a[0m
+[13.334s] [ 50%] Built target gtest_main
+[15.148s] [ 66%] [32m[1mLinking CXX static library libgtest.a[0m
+[15.221s] [ 66%] Built target gtest
+[15.243s] [ 83%] [32mBuilding CXX object CMakeFiles/test_command_topics.dir/test/test_command_topics.cpp.o[0m
+[21.784s] [100%] [32m[1mLinking CXX executable test_command_topics[0m
+[21.974s] [100%] Built target test_command_topics
+[21.988s] Invoked command in '/home/ros2/dev_ws/build/abb_bringup' returned '0': AMENT_PREFIX_PATH=/home/ros2/dev_ws/install/abb_irb1200_5_90_moveit_config:/home/ros2/dev_ws/install/abb_resources:/home/ros2/dev_ws/install/abb_irb1200_support:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/ros2/dev_ws/install/abb_irb1200_5_90_moveit_config:/home/ros2/dev_ws/install/abb_resources:/home/ros2/dev_ws/install/abb_irb1200_support:/opt/ros/humble /usr/bin/cmake --build /home/ros2/dev_ws/build/abb_bringup -- -j16 -l16
+[21.990s] Invoking command in '/home/ros2/dev_ws/build/abb_bringup': AMENT_PREFIX_PATH=/home/ros2/dev_ws/install/abb_irb1200_5_90_moveit_config:/home/ros2/dev_ws/install/abb_resources:/home/ros2/dev_ws/install/abb_irb1200_support:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/ros2/dev_ws/install/abb_irb1200_5_90_moveit_config:/home/ros2/dev_ws/install/abb_resources:/home/ros2/dev_ws/install/abb_irb1200_support:/opt/ros/humble /usr/bin/cmake --install /home/ros2/dev_ws/build/abb_bringup
+[21.996s] -- Install configuration: ""
+[21.997s] -- Execute custom install script
+[22.000s] -- Symlinking: /home/ros2/dev_ws/install/abb_bringup/share/abb_bringup/config/abb_controllers.yaml
+[22.005s] -- Symlinking: /home/ros2/dev_ws/install/abb_bringup/share/abb_bringup/launch/abb_control.launch.py
+[22.015s] -- Symlinking: /home/ros2/dev_ws/install/abb_bringup/share/abb_bringup/launch/abb_moveit.launch.py
+[22.022s] -- Symlinking: /home/ros2/dev_ws/install/abb_bringup/share/abb_bringup/launch/abb_rws_client.launch.py
+[22.034s] -- Symlinking: /home/ros2/dev_ws/install/abb_bringup/share/ament_index/resource_index/package_run_dependencies/abb_bringup
+[22.042s] -- Symlinking: /home/ros2/dev_ws/install/abb_bringup/share/ament_index/resource_index/parent_prefix_path/abb_bringup
+[22.050s] -- Symlinking: /home/ros2/dev_ws/install/abb_bringup/share/abb_bringup/environment/ament_prefix_path.sh
+[22.057s] -- Symlinking: /home/ros2/dev_ws/install/abb_bringup/share/abb_bringup/environment/ament_prefix_path.dsv
+[22.066s] -- Symlinking: /home/ros2/dev_ws/install/abb_bringup/share/abb_bringup/environment/path.sh
+[22.079s] -- Symlinking: /home/ros2/dev_ws/install/abb_bringup/share/abb_bringup/environment/path.dsv
+[22.091s] -- Symlinking: /home/ros2/dev_ws/install/abb_bringup/share/abb_bringup/local_setup.bash
+[22.098s] -- Symlinking: /home/ros2/dev_ws/install/abb_bringup/share/abb_bringup/local_setup.sh
+[22.107s] -- Symlinking: /home/ros2/dev_ws/install/abb_bringup/share/abb_bringup/local_setup.zsh
+[22.118s] -- Symlinking: /home/ros2/dev_ws/install/abb_bringup/share/abb_bringup/local_setup.dsv
+[22.129s] -- Symlinking: /home/ros2/dev_ws/install/abb_bringup/share/abb_bringup/package.dsv
+[22.138s] -- Symlinking: /home/ros2/dev_ws/install/abb_bringup/share/ament_index/resource_index/packages/abb_bringup
+[22.147s] -- Symlinking: /home/ros2/dev_ws/install/abb_bringup/share/abb_bringup/cmake/ament_cmake_export_dependencies-extras.cmake
+[22.156s] -- Symlinking: /home/ros2/dev_ws/install/abb_bringup/share/abb_bringup/cmake/abb_bringupConfig.cmake
+[22.167s] -- Symlinking: /home/ros2/dev_ws/install/abb_bringup/share/abb_bringup/cmake/abb_bringupConfig-version.cmake
+[22.176s] -- Symlinking: /home/ros2/dev_ws/install/abb_bringup/share/abb_bringup/package.xml
+[22.188s] Invoked command in '/home/ros2/dev_ws/build/abb_bringup' returned '0': AMENT_PREFIX_PATH=/home/ros2/dev_ws/install/abb_irb1200_5_90_moveit_config:/home/ros2/dev_ws/install/abb_resources:/home/ros2/dev_ws/install/abb_irb1200_support:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/ros2/dev_ws/install/abb_irb1200_5_90_moveit_config:/home/ros2/dev_ws/install/abb_resources:/home/ros2/dev_ws/install/abb_irb1200_support:/opt/ros/humble /usr/bin/cmake --install /home/ros2/dev_ws/build/abb_bringup

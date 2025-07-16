@@ -1,0 +1,14 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : [],
+		"nodes" : []
+	},
+	"installers" : [],
+	"paths" : 
+	{
+		"build" : "abb_egm_msgs__py",
+		"source" : "/home/ros2/dev_ws/build/abb_egm_msgs/abb_egm_msgs__py"
+	}
+}

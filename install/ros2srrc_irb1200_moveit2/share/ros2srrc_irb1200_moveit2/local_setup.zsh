@@ -1,0 +1,1 @@
+/home/ros2/dev_ws/build/ros2srrc_irb1200_moveit2/ament_cmake_environment_hooks/local_setup.zsh

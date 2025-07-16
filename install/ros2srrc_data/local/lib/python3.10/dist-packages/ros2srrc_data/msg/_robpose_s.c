@@ -1,0 +1,1 @@
+/home/ros2/dev_ws/build/ros2srrc_data/rosidl_generator_py/ros2srrc_data/msg/_robpose_s.c

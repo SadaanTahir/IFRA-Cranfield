@@ -1,0 +1,1 @@
+/home/ros2/dev_ws/src/ABBDriver/abb_ros2_msgs/abb_rapid_sm_addin_msgs/msg/EGMRunSettings.msg

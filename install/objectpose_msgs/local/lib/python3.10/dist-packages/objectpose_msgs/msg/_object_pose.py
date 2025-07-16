@@ -1,0 +1,1 @@
+/home/ros2/dev_ws/build/objectpose_msgs/rosidl_generator_py/objectpose_msgs/msg/_object_pose.py

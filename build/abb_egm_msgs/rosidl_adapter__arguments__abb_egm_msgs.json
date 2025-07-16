@@ -1,0 +1,7 @@
+{
+  "package_name": "abb_egm_msgs",
+  "non_idl_tuples": [
+    "/home/ros2/dev_ws/src/ABBDriver/abb_ros2_msgs/abb_egm_msgs:msg/EGMChannelState.msg",
+    "/home/ros2/dev_ws/src/ABBDriver/abb_ros2_msgs/abb_egm_msgs:msg/EGMState.msg"
+  ]
+}

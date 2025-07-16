@@ -1,0 +1,49 @@
+[0.063s] Invoking command in '/home/ros2/dev_ws/build/ros2srrc_iiwa_moveit2': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/ros2/dev_ws/src/ros2_SimRealRobotControl/packages/iiwa/ros2srrc_iiwa_moveit2 -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/ros2/dev_ws/install/ros2srrc_iiwa_moveit2
+[2.321s] -- The C compiler identification is GNU 11.4.0
+[2.321s] -- The CXX compiler identification is GNU 11.4.0
+[2.321s] -- Detecting C compiler ABI info
+[2.321s] -- Detecting C compiler ABI info - done
+[2.321s] -- Check for working C compiler: /usr/bin/cc - skipped
+[2.321s] -- Detecting C compile features
+[2.321s] -- Detecting C compile features - done
+[2.321s] -- Detecting CXX compiler ABI info
+[2.322s] -- Detecting CXX compiler ABI info - done
+[2.322s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[2.322s] -- Detecting CXX compile features
+[2.322s] -- Detecting CXX compile features - done
+[2.322s] -- Found ament_cmake: 1.3.11 (/opt/ros/humble/share/ament_cmake/cmake)
+[2.322s] -- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+[2.322s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[2.322s] -- Found ament_lint_auto: 0.12.12 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[2.582s] -- Added test 'copyright' to check source files copyright and LICENSE
+[2.582s] -- Added test 'lint_cmake' to check CMake code style
+[2.582s] -- Added test 'xmllint' to check XML markup files
+[2.584s] -- Configuring done
+[2.603s] -- Generating done
+[2.603s] -- Build files have been written to: /home/ros2/dev_ws/build/ros2srrc_iiwa_moveit2
+[2.722s] Invoked command in '/home/ros2/dev_ws/build/ros2srrc_iiwa_moveit2' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/ros2/dev_ws/src/ros2_SimRealRobotControl/packages/iiwa/ros2srrc_iiwa_moveit2 -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/ros2/dev_ws/install/ros2srrc_iiwa_moveit2
+[2.726s] Invoking command in '/home/ros2/dev_ws/build/ros2srrc_iiwa_moveit2': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/ros2/dev_ws/build/ros2srrc_iiwa_moveit2 -- -j16 -l16
+[5.676s] Invoked command in '/home/ros2/dev_ws/build/ros2srrc_iiwa_moveit2' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/ros2/dev_ws/build/ros2srrc_iiwa_moveit2 -- -j16 -l16
+[5.679s] Invoking command in '/home/ros2/dev_ws/build/ros2srrc_iiwa_moveit2': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/ros2/dev_ws/build/ros2srrc_iiwa_moveit2
+[6.151s] -- Install configuration: ""
+[6.151s] -- Execute custom install script
+[6.152s] -- Symlinking: /home/ros2/dev_ws/install/ros2srrc_iiwa_moveit2/share/ros2srrc_iiwa_moveit2/config/iiwa.srdf
+[6.152s] -- Symlinking: /home/ros2/dev_ws/install/ros2srrc_iiwa_moveit2/share/ros2srrc_iiwa_moveit2/config/iiwa_moveit2.rviz
+[6.152s] -- Symlinking: /home/ros2/dev_ws/install/ros2srrc_iiwa_moveit2/share/ros2srrc_iiwa_moveit2/config/iiwarobotiq_2f85.srdf
+[6.152s] -- Symlinking: /home/ros2/dev_ws/install/ros2srrc_iiwa_moveit2/share/ros2srrc_iiwa_moveit2/config/iiwarobotiq_2f85_moveit2.rviz
+[6.152s] -- Symlinking: /home/ros2/dev_ws/install/ros2srrc_iiwa_moveit2/share/ament_index/resource_index/package_run_dependencies/ros2srrc_iiwa_moveit2
+[6.152s] -- Symlinking: /home/ros2/dev_ws/install/ros2srrc_iiwa_moveit2/share/ament_index/resource_index/parent_prefix_path/ros2srrc_iiwa_moveit2
+[6.152s] -- Symlinking: /home/ros2/dev_ws/install/ros2srrc_iiwa_moveit2/share/ros2srrc_iiwa_moveit2/environment/ament_prefix_path.sh
+[6.152s] -- Symlinking: /home/ros2/dev_ws/install/ros2srrc_iiwa_moveit2/share/ros2srrc_iiwa_moveit2/environment/ament_prefix_path.dsv
+[6.152s] -- Symlinking: /home/ros2/dev_ws/install/ros2srrc_iiwa_moveit2/share/ros2srrc_iiwa_moveit2/environment/path.sh
+[6.152s] -- Symlinking: /home/ros2/dev_ws/install/ros2srrc_iiwa_moveit2/share/ros2srrc_iiwa_moveit2/environment/path.dsv
+[6.152s] -- Symlinking: /home/ros2/dev_ws/install/ros2srrc_iiwa_moveit2/share/ros2srrc_iiwa_moveit2/local_setup.bash
+[6.152s] -- Symlinking: /home/ros2/dev_ws/install/ros2srrc_iiwa_moveit2/share/ros2srrc_iiwa_moveit2/local_setup.sh
+[6.152s] -- Symlinking: /home/ros2/dev_ws/install/ros2srrc_iiwa_moveit2/share/ros2srrc_iiwa_moveit2/local_setup.zsh
+[6.153s] -- Symlinking: /home/ros2/dev_ws/install/ros2srrc_iiwa_moveit2/share/ros2srrc_iiwa_moveit2/local_setup.dsv
+[6.153s] -- Symlinking: /home/ros2/dev_ws/install/ros2srrc_iiwa_moveit2/share/ros2srrc_iiwa_moveit2/package.dsv
+[6.153s] -- Symlinking: /home/ros2/dev_ws/install/ros2srrc_iiwa_moveit2/share/ament_index/resource_index/packages/ros2srrc_iiwa_moveit2
+[6.153s] -- Symlinking: /home/ros2/dev_ws/install/ros2srrc_iiwa_moveit2/share/ros2srrc_iiwa_moveit2/cmake/ros2srrc_iiwa_moveit2Config.cmake
+[6.159s] -- Symlinking: /home/ros2/dev_ws/install/ros2srrc_iiwa_moveit2/share/ros2srrc_iiwa_moveit2/cmake/ros2srrc_iiwa_moveit2Config-version.cmake
+[6.186s] -- Symlinking: /home/ros2/dev_ws/install/ros2srrc_iiwa_moveit2/share/ros2srrc_iiwa_moveit2/package.xml
+[6.234s] Invoked command in '/home/ros2/dev_ws/build/ros2srrc_iiwa_moveit2' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/ros2/dev_ws/build/ros2srrc_iiwa_moveit2

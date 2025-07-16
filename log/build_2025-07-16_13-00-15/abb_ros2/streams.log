@@ -1,0 +1,45 @@
+[0.040s] Invoking command in '/home/ros2/dev_ws/build/abb_ros2': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/ros2/dev_ws/src/ABBDriver/abb_ros2/abb_ros2 -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/ros2/dev_ws/install/abb_ros2
+[0.941s] -- The C compiler identification is GNU 11.4.0
+[0.941s] -- The CXX compiler identification is GNU 11.4.0
+[0.941s] -- Detecting C compiler ABI info
+[0.941s] -- Detecting C compiler ABI info - done
+[0.941s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.941s] -- Detecting C compile features
+[0.941s] -- Detecting C compile features - done
+[0.941s] -- Detecting CXX compiler ABI info
+[0.941s] -- Detecting CXX compiler ABI info - done
+[0.942s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.942s] -- Detecting CXX compile features
+[0.942s] -- Detecting CXX compile features - done
+[0.942s] -- Found ament_cmake: 1.3.11 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.942s] -- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+[0.942s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[0.942s] -- Found ament_lint_auto: 0.12.12 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[0.942s] -- Added test 'copyright' to check source files copyright and LICENSE
+[0.942s] -- Added test 'lint_cmake' to check CMake code style
+[0.946s] -- Added test 'xmllint' to check XML markup files
+[0.947s] -- Configuring done
+[0.947s] -- Generating done
+[0.947s] -- Build files have been written to: /home/ros2/dev_ws/build/abb_ros2
+[0.951s] Invoked command in '/home/ros2/dev_ws/build/abb_ros2' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/ros2/dev_ws/src/ABBDriver/abb_ros2/abb_ros2 -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/ros2/dev_ws/install/abb_ros2
+[0.951s] Invoking command in '/home/ros2/dev_ws/build/abb_ros2': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/ros2/dev_ws/build/abb_ros2 -- -j16 -l16
+[2.763s] Invoked command in '/home/ros2/dev_ws/build/abb_ros2' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/ros2/dev_ws/build/abb_ros2 -- -j16 -l16
+[2.768s] Invoking command in '/home/ros2/dev_ws/build/abb_ros2': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/ros2/dev_ws/build/abb_ros2
+[2.948s] -- Install configuration: ""
+[2.948s] -- Execute custom install script
+[2.948s] -- Symlinking: /home/ros2/dev_ws/install/abb_ros2/share/ament_index/resource_index/package_run_dependencies/abb_ros2
+[2.948s] -- Symlinking: /home/ros2/dev_ws/install/abb_ros2/share/ament_index/resource_index/parent_prefix_path/abb_ros2
+[2.948s] -- Symlinking: /home/ros2/dev_ws/install/abb_ros2/share/abb_ros2/environment/ament_prefix_path.sh
+[2.949s] -- Symlinking: /home/ros2/dev_ws/install/abb_ros2/share/abb_ros2/environment/ament_prefix_path.dsv
+[2.949s] -- Symlinking: /home/ros2/dev_ws/install/abb_ros2/share/abb_ros2/environment/path.sh
+[2.949s] -- Symlinking: /home/ros2/dev_ws/install/abb_ros2/share/abb_ros2/environment/path.dsv
+[2.950s] -- Symlinking: /home/ros2/dev_ws/install/abb_ros2/share/abb_ros2/local_setup.bash
+[2.961s] -- Symlinking: /home/ros2/dev_ws/install/abb_ros2/share/abb_ros2/local_setup.sh
+[2.995s] -- Symlinking: /home/ros2/dev_ws/install/abb_ros2/share/abb_ros2/local_setup.zsh
+[3.014s] -- Symlinking: /home/ros2/dev_ws/install/abb_ros2/share/abb_ros2/local_setup.dsv
+[3.044s] -- Symlinking: /home/ros2/dev_ws/install/abb_ros2/share/abb_ros2/package.dsv
+[3.063s] -- Symlinking: /home/ros2/dev_ws/install/abb_ros2/share/ament_index/resource_index/packages/abb_ros2
+[3.101s] -- Symlinking: /home/ros2/dev_ws/install/abb_ros2/share/abb_ros2/cmake/abb_ros2Config.cmake
+[3.150s] -- Symlinking: /home/ros2/dev_ws/install/abb_ros2/share/abb_ros2/cmake/abb_ros2Config-version.cmake
+[3.170s] -- Symlinking: /home/ros2/dev_ws/install/abb_ros2/share/abb_ros2/package.xml
+[3.277s] Invoked command in '/home/ros2/dev_ws/build/abb_ros2' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/ros2/dev_ws/build/abb_ros2

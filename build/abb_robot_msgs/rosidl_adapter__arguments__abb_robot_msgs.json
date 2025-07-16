@@ -1,0 +1,28 @@
+{
+  "package_name": "abb_robot_msgs",
+  "non_idl_tuples": [
+    "/home/ros2/dev_ws/src/ABBDriver/abb_ros2_msgs/abb_robot_msgs:msg/MechanicalUnitState.msg",
+    "/home/ros2/dev_ws/src/ABBDriver/abb_ros2_msgs/abb_robot_msgs:msg/RAPIDSymbolPath.msg",
+    "/home/ros2/dev_ws/src/ABBDriver/abb_ros2_msgs/abb_robot_msgs:msg/RAPIDTaskState.msg",
+    "/home/ros2/dev_ws/src/ABBDriver/abb_ros2_msgs/abb_robot_msgs:msg/ServiceResponses.msg",
+    "/home/ros2/dev_ws/src/ABBDriver/abb_ros2_msgs/abb_robot_msgs:msg/SystemState.msg",
+    "/home/ros2/dev_ws/src/ABBDriver/abb_ros2_msgs/abb_robot_msgs:srv/GetFileContents.srv",
+    "/home/ros2/dev_ws/src/ABBDriver/abb_ros2_msgs/abb_robot_msgs:srv/GetIOSignal.srv",
+    "/home/ros2/dev_ws/src/ABBDriver/abb_ros2_msgs/abb_robot_msgs:srv/GetRAPIDBool.srv",
+    "/home/ros2/dev_ws/src/ABBDriver/abb_ros2_msgs/abb_robot_msgs:srv/GetRAPIDDnum.srv",
+    "/home/ros2/dev_ws/src/ABBDriver/abb_ros2_msgs/abb_robot_msgs:srv/GetRAPIDNum.srv",
+    "/home/ros2/dev_ws/src/ABBDriver/abb_ros2_msgs/abb_robot_msgs:srv/GetRAPIDString.srv",
+    "/home/ros2/dev_ws/src/ABBDriver/abb_ros2_msgs/abb_robot_msgs:srv/GetRAPIDSymbol.srv",
+    "/home/ros2/dev_ws/src/ABBDriver/abb_ros2_msgs/abb_robot_msgs:srv/GetRobotControllerDescription.srv",
+    "/home/ros2/dev_ws/src/ABBDriver/abb_ros2_msgs/abb_robot_msgs:srv/GetSpeedRatio.srv",
+    "/home/ros2/dev_ws/src/ABBDriver/abb_ros2_msgs/abb_robot_msgs:srv/SetFileContents.srv",
+    "/home/ros2/dev_ws/src/ABBDriver/abb_ros2_msgs/abb_robot_msgs:srv/SetIOSignal.srv",
+    "/home/ros2/dev_ws/src/ABBDriver/abb_ros2_msgs/abb_robot_msgs:srv/SetRAPIDBool.srv",
+    "/home/ros2/dev_ws/src/ABBDriver/abb_ros2_msgs/abb_robot_msgs:srv/SetRAPIDDnum.srv",
+    "/home/ros2/dev_ws/src/ABBDriver/abb_ros2_msgs/abb_robot_msgs:srv/SetRAPIDNum.srv",
+    "/home/ros2/dev_ws/src/ABBDriver/abb_ros2_msgs/abb_robot_msgs:srv/SetRAPIDString.srv",
+    "/home/ros2/dev_ws/src/ABBDriver/abb_ros2_msgs/abb_robot_msgs:srv/SetRAPIDSymbol.srv",
+    "/home/ros2/dev_ws/src/ABBDriver/abb_ros2_msgs/abb_robot_msgs:srv/SetSpeedRatio.srv",
+    "/home/ros2/dev_ws/src/ABBDriver/abb_ros2_msgs/abb_robot_msgs:srv/TriggerWithResultCode.srv"
+  ]
+}

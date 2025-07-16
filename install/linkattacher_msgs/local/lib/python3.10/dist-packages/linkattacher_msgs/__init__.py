@@ -1,0 +1,1 @@
+/home/ros2/dev_ws/build/linkattacher_msgs/rosidl_generator_py/linkattacher_msgs/__init__.py

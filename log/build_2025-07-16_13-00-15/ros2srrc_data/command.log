@@ -1,0 +1,6 @@
+Invoking command in '/home/ros2/dev_ws/build/ros2srrc_data': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/ros2/dev_ws/src/ros2_SimRealRobotControl/ros2srrc_data -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/ros2/dev_ws/install/ros2srrc_data
+Invoked command in '/home/ros2/dev_ws/build/ros2srrc_data' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/ros2/dev_ws/src/ros2_SimRealRobotControl/ros2srrc_data -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/ros2/dev_ws/install/ros2srrc_data
+Invoking command in '/home/ros2/dev_ws/build/ros2srrc_data': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/ros2/dev_ws/build/ros2srrc_data -- -j16 -l16
+Invoked command in '/home/ros2/dev_ws/build/ros2srrc_data' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/ros2/dev_ws/build/ros2srrc_data -- -j16 -l16
+Invoking command in '/home/ros2/dev_ws/build/ros2srrc_data': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/ros2/dev_ws/build/ros2srrc_data
+Invoked command in '/home/ros2/dev_ws/build/ros2srrc_data' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/ros2/dev_ws/build/ros2srrc_data

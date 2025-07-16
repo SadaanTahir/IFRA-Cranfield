@@ -1,0 +1,14 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : [],
+		"nodes" : []
+	},
+	"installers" : [],
+	"paths" : 
+	{
+		"build" : "objectpose_msgs__py",
+		"source" : "/home/ros2/dev_ws/build/objectpose_msgs/objectpose_msgs__py"
+	}
+}

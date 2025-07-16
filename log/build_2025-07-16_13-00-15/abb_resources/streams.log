@@ -1,0 +1,43 @@
+[0.041s] Invoking command in '/home/ros2/dev_ws/build/abb_resources': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/ros2/dev_ws/src/ABBDriver/abb_ros2/abb_resources -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/ros2/dev_ws/install/abb_resources
+[0.108s] -- The C compiler identification is GNU 11.4.0
+[0.178s] -- The CXX compiler identification is GNU 11.4.0
+[0.186s] -- Detecting C compiler ABI info
+[0.275s] -- Detecting C compiler ABI info - done
+[0.285s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.285s] -- Detecting C compile features
+[0.285s] -- Detecting C compile features - done
+[0.288s] -- Detecting CXX compiler ABI info
+[0.384s] -- Detecting CXX compiler ABI info - done
+[0.395s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.395s] -- Detecting CXX compile features
+[0.397s] -- Detecting CXX compile features - done
+[0.397s] -- Found ament_cmake: 1.3.11 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.599s] -- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+[0.687s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[0.790s] -- Configuring done
+[0.790s] -- Generating done
+[0.791s] -- Build files have been written to: /home/ros2/dev_ws/build/abb_resources
+[0.811s] Invoked command in '/home/ros2/dev_ws/build/abb_resources' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/ros2/dev_ws/src/ABBDriver/abb_ros2/abb_resources -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/ros2/dev_ws/install/abb_resources
+[0.812s] Invoking command in '/home/ros2/dev_ws/build/abb_resources': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/ros2/dev_ws/build/abb_resources -- -j16 -l16
+[2.646s] Invoked command in '/home/ros2/dev_ws/build/abb_resources' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/ros2/dev_ws/build/abb_resources -- -j16 -l16
+[2.653s] Invoking command in '/home/ros2/dev_ws/build/abb_resources': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/ros2/dev_ws/build/abb_resources
+[2.856s] -- Install configuration: ""
+[2.856s] -- Execute custom install script
+[2.856s] -- Symlinking: /home/ros2/dev_ws/install/abb_resources/share/ament_index/resource_index/package_run_dependencies/abb_resources
+[2.856s] -- Symlinking: /home/ros2/dev_ws/install/abb_resources/share/ament_index/resource_index/parent_prefix_path/abb_resources
+[2.856s] -- Symlinking: /home/ros2/dev_ws/install/abb_resources/share/abb_resources/environment/ament_prefix_path.sh
+[2.856s] -- Symlinking: /home/ros2/dev_ws/install/abb_resources/share/abb_resources/environment/ament_prefix_path.dsv
+[2.856s] -- Symlinking: /home/ros2/dev_ws/install/abb_resources/share/abb_resources/environment/path.sh
+[2.856s] -- Symlinking: /home/ros2/dev_ws/install/abb_resources/share/abb_resources/environment/path.dsv
+[2.856s] -- Symlinking: /home/ros2/dev_ws/install/abb_resources/share/abb_resources/local_setup.bash
+[2.856s] -- Symlinking: /home/ros2/dev_ws/install/abb_resources/share/abb_resources/local_setup.sh
+[2.868s] -- Symlinking: /home/ros2/dev_ws/install/abb_resources/share/abb_resources/local_setup.zsh
+[2.897s] -- Symlinking: /home/ros2/dev_ws/install/abb_resources/share/abb_resources/local_setup.dsv
+[2.918s] -- Symlinking: /home/ros2/dev_ws/install/abb_resources/share/abb_resources/package.dsv
+[2.963s] -- Symlinking: /home/ros2/dev_ws/install/abb_resources/share/ament_index/resource_index/packages/abb_resources
+[2.970s] -- Symlinking: /home/ros2/dev_ws/install/abb_resources/share/abb_resources/cmake/abb_resourcesConfig.cmake
+[3.001s] -- Symlinking: /home/ros2/dev_ws/install/abb_resources/share/abb_resources/cmake/abb_resourcesConfig-version.cmake
+[3.028s] -- Symlinking: /home/ros2/dev_ws/install/abb_resources/share/abb_resources/package.xml
+[3.057s] -- Symlinking: /home/ros2/dev_ws/install/abb_resources/share/abb_resources/urdf/common_colours.xacro
+[3.091s] -- Symlinking: /home/ros2/dev_ws/install/abb_resources/share/abb_resources/urdf/common_materials.xacro
+[3.136s] Invoked command in '/home/ros2/dev_ws/build/abb_resources' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/ros2/dev_ws/build/abb_resources

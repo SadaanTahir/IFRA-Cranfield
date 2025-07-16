@@ -1,0 +1,1 @@
+/home/ros2/dev_ws/build/objectpose_msgs/ament_cmake_core/objectpose_msgsConfig-version.cmake

@@ -1,0 +1,1 @@
+/home/ros2/dev_ws/build/ros2srrc_endeffectors/ament_cmake_core/ros2srrc_endeffectorsConfig-version.cmake

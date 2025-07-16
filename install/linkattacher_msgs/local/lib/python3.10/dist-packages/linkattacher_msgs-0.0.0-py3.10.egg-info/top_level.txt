@@ -1,0 +1,1 @@
+/home/ros2/dev_ws/build/linkattacher_msgs/ament_cmake_python/linkattacher_msgs/linkattacher_msgs.egg-info/top_level.txt

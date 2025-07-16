@@ -1,0 +1,16 @@
+{
+  "package_name": "abb_rapid_sm_addin_msgs",
+  "non_idl_tuples": [
+    "/home/ros2/dev_ws/src/ABBDriver/abb_ros2_msgs/abb_rapid_sm_addin_msgs:msg/EGMActivateSettings.msg",
+    "/home/ros2/dev_ws/src/ABBDriver/abb_ros2_msgs/abb_rapid_sm_addin_msgs:msg/EGMRunSettings.msg",
+    "/home/ros2/dev_ws/src/ABBDriver/abb_ros2_msgs/abb_rapid_sm_addin_msgs:msg/EGMSettings.msg",
+    "/home/ros2/dev_ws/src/ABBDriver/abb_ros2_msgs/abb_rapid_sm_addin_msgs:msg/EGMSetupSettings.msg",
+    "/home/ros2/dev_ws/src/ABBDriver/abb_ros2_msgs/abb_rapid_sm_addin_msgs:msg/EGMStopSettings.msg",
+    "/home/ros2/dev_ws/src/ABBDriver/abb_ros2_msgs/abb_rapid_sm_addin_msgs:msg/RuntimeState.msg",
+    "/home/ros2/dev_ws/src/ABBDriver/abb_ros2_msgs/abb_rapid_sm_addin_msgs:msg/StateMachineState.msg",
+    "/home/ros2/dev_ws/src/ABBDriver/abb_ros2_msgs/abb_rapid_sm_addin_msgs:srv/GetEGMSettings.srv",
+    "/home/ros2/dev_ws/src/ABBDriver/abb_ros2_msgs/abb_rapid_sm_addin_msgs:srv/SetEGMSettings.srv",
+    "/home/ros2/dev_ws/src/ABBDriver/abb_ros2_msgs/abb_rapid_sm_addin_msgs:srv/SetRAPIDRoutine.srv",
+    "/home/ros2/dev_ws/src/ABBDriver/abb_ros2_msgs/abb_rapid_sm_addin_msgs:srv/SetSGCommand.srv"
+  ]
+}

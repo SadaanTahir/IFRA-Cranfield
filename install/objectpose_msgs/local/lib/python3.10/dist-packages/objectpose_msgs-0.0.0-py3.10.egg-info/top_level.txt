@@ -1,0 +1,1 @@
+/home/ros2/dev_ws/build/objectpose_msgs/ament_cmake_python/objectpose_msgs/objectpose_msgs.egg-info/top_level.txt
